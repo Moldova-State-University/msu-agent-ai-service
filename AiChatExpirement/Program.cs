@@ -1,8 +1,7 @@
-﻿using OllamaSharp;
-using OllamaSharp.Models;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using AiChatExpirement.Services;
 using DotNetEnv;
-using AiChatExpirement.Services;
+using OllamaSharp;
+using OllamaSharp.Models;
 
 Env.Load("../../../../.env");
 

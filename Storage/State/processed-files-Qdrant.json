@@ -1,0 +1,65 @@
+[
+  {
+    "FileName": "processingtest.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "BB99F5F3DC4AE57ECD5A2622C6CF267AE25F6F78C9EA891743A249D28BFC44A0",
+    "Size": 39440,
+    "LastWriteTimeUtc": "2026-06-22T20:18:39.6104449Z",
+    "ProcessedAtUtc": "2026-06-22T20:22:41.6158073Z",
+    "ProcesedFilename": "qdrantstorage"
+  },
+  {
+    "FileName": "bragaru_ungureanu_teze-de-an-licenta-master_r4_ro.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "5207BE197FFFB7607FED8B8303B101279916B56E2C7A7CB1C7E83B69631612AF",
+    "Size": 520162,
+    "LastWriteTimeUtc": "2026-06-24T15:40:08.249465Z",
+    "ProcessedAtUtc": "2026-06-24T17:30:45.8655487Z",
+    "ProcesedFilename": "qdrantstorage"
+  },
+  {
+    "FileName": "regulament-id_ifr_usm.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "F6E802BDD8F8DB9357133A4ED274142009C2B92606FD1CD76C92066939428B0C",
+    "Size": 146924,
+    "LastWriteTimeUtc": "2026-06-24T15:40:08.2594649Z",
+    "ProcessedAtUtc": "2026-06-24T17:30:57.9742505Z",
+    "ProcesedFilename": "qdrantstorage"
+  },
+  {
+    "FileName": "regulament-sistemul-national-de-credite.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "CDCB46248F7FF2D44E04F70B894B61604A55E571E3817B316634FA63A01E461A",
+    "Size": 398311,
+    "LastWriteTimeUtc": "2026-06-24T15:40:08.2654671Z",
+    "ProcessedAtUtc": "2026-06-24T17:31:33.8470683Z",
+    "ProcesedFilename": "qdrantstorage"
+  },
+  {
+    "FileName": "regulamentul-institutional-privind-organizarea-si-desfasurarea-invatamantului-dual-n-cadrul-studiilor-superioare-de-licenta_ciclul-i.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "00E7A5B9B5A79193D07B249F836E6CC337962348EE118E4676547E997543034E",
+    "Size": 70923,
+    "LastWriteTimeUtc": "2026-06-24T15:40:08.2664645Z",
+    "ProcessedAtUtc": "2026-06-24T17:31:39.3830973Z",
+    "ProcesedFilename": "qdrantstorage"
+  },
+  {
+    "FileName": "regulament_privind_formarea_profesionala_la_ciclul_i_studii_superioare.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "D4FAD7353287CAA9E7B7921DFE05BD042C432505423CE22E1E18F43F5CA81753",
+    "Size": 402738,
+    "LastWriteTimeUtc": "2026-06-24T15:40:08.2714655Z",
+    "ProcessedAtUtc": "2026-06-24T17:32:12.0200806Z",
+    "ProcesedFilename": "qdrantstorage"
+  },
+  {
+    "FileName": "metodologieevaluareonline.chunks.json",
+    "RelativePath": "QdrantStorage/regulations",
+    "Sha256": "F83A98E2FE87106D8E1687A80DAE8C90A033B11C7C6C709F77C5E47180E7E45F",
+    "Size": 104306,
+    "LastWriteTimeUtc": "2026-06-26T10:47:34.8262198Z",
+    "ProcessedAtUtc": "2026-06-26T10:50:20.3022245Z",
+    "ProcesedFilename": "qdrantstorage"
+  }
+]

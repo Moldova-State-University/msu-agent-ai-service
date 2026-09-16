@@ -1,0 +1,1205 @@
+[
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00000",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "regulament-id_ifr_usm",
+    "ChunkIndex": 0,
+    "Headings": [],
+    "HeadingPath": "",
+    "ChunkText": "![Universitatea de Stat din Moldova logo](page_1_image_1_v2.jpg)\n\n| Universitatea de Stat din Moldova | Organism emitent<br/>Departamentul Managementul Calității |\n| --- | --- |\n| **REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER** | APROBAT Senatului USM<br/>P.V. nr. 14, din „01” iulie 2025<br/>Rector,<br/>prof. univ. dr. I. SAROV |",
+    "EmbeddingText": "Document: regulament-id_ifr_usm\nPath: \n\nText:\n![Universitatea de Stat din Moldova logo](page_1_image_1_v2.jpg)\n\n| Universitatea de Stat din Moldova | Organism emitent<br/>Departamentul Managementul Calității |\n| --- | --- |\n| **REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER** | APROBAT Senatului USM<br/>P.V. nr. 14, din „01” iulie 2025<br/>Rector,<br/>prof. univ. dr. I. SAROV |",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "5592eb719c2168cebd7b103d33c6af19cf229fe2198c25bf4637b6e8f34ce9d8"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00001",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 1,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "I. PREAMBUL"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > I. PREAMBUL",
+    "ChunkText": "1. Regulamentul instituțional privind organizarea și desfășurarea învățământului la distanță și cu frecvență redusă în cadrul studiilor superioare de licență și de master (în continuare Regulamentul) stabilește cerințele de bază pentru admiterea, organizarea și desfășurarea programelor de studii superioare de licență (ciclul I) și de master (ciclul II) la forma de organizare a învățământului la distanță și cu frecvență redusă din cadrul Universității de Stat din Moldova (în continuare USM).",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > I. PREAMBUL\n\nText:\n1. Regulamentul instituțional privind organizarea și desfășurarea învățământului la distanță și cu frecvență redusă în cadrul studiilor superioare de licență și de master (în continuare Regulamentul) stabilește cerințele de bază pentru admiterea, organizarea și desfășurarea programelor de studii superioare de licență (ciclul I) și de master (ciclul II) la forma de organizare a învățământului la distanță și cu frecvență redusă din cadrul Universității de Stat din Moldova (în continuare USM).",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "4df90dbf830b5fe54a131f99e91b8c417853611cf4555d4953afe8802c9b72d1"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00002",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 2,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "I. PREAMBUL"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > I. PREAMBUL",
+    "ChunkText": "2. Regulamentul este elaborat în baza prevederilor următoarelor documente normativ-regulatorii:\n\n- Codul educației al Republicii Moldova, COD Nr.152 din 17.07.2014, cu modificările ulterioare\n- Metodologia de evaluare externă a calității în învățământul superior, profesional tehnic și formarea profesională a adulților, HG Nr. 616 din 18.05.2016, cu modificările ulterioare\n- Plan-cadru pentru studii superioare de licență, master și integrate, Ordinul MEC Nr.510 din 07.04.2025\n- Regulamentul de organizare și desfășurare a învățământului la distanță și cu frecvență redusă în cadrul studiilor superioare de licență și de master, HG Nr.164 din 26.03.2025.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > I. PREAMBUL\n\nText:\n2. Regulamentul este elaborat în baza prevederilor următoarelor documente normativ-regulatorii:\n\n- Codul educației al Republicii Moldova, COD Nr.152 din 17.07.2014, cu modificările ulterioare\n- Metodologia de evaluare externă a calității în învățământul superior, profesional tehnic și formarea profesională a adulților, HG Nr. 616 din 18.05.2016, cu modificările ulterioare\n- Plan-cadru pentru studii superioare de licență, master și integrate, Ordinul MEC Nr.510 din 07.04.2025\n- Regulamentul de organizare și desfășurare a învățământului la distanță și cu frecvență redusă în cadrul studiilor superioare de licență și de master, HG Nr.164 din 26.03.2025.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "0c2df3dab8d969e7b3fee168effcf8385ca1f3a5c4d671fb8f9f711a3fc588a3"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00003",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 3,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "1. Regulamentul asigură premise pentru dezvoltarea unor programe care favorizează accesul la o educație de calitate pentru diverse categorii de studenți, inclusiv pentru cei care, din diverse motive, nu pot urma studiile superioare la forma de organizare a învățământului cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n1. Regulamentul asigură premise pentru dezvoltarea unor programe care favorizează accesul la o educație de calitate pentru diverse categorii de studenți, inclusiv pentru cei care, din diverse motive, nu pot urma studiile superioare la forma de organizare a învățământului cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "6b520107a8341726d370ccd1ec3b2ac0dc34b5c3780dc9cd70c267d2f2b06354"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00004",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 4,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "2. În sensul prezentului Regulament, noțiunile utilizate semnifică:\n\n4.1. *învățământ la distanță* (în continuare ÎD) – formă flexibilă de organizare a procesului didactic care oferă studenților posibilitatea de a opta asupra locului și timpului în care să se instruiască. Învățământul la distanță oferă studii combinate de activități realizate preponderent în mediul virtual cu ajutorul tehnologiilor informaționale și de comunicație, <u>sincron</u> și <u>asincron</u>;\n\n**4.2.** *învățământul cu frecvență redusă* (în continuare ÎFR) – formă de organizare a proceselor didactice caracterizată prin activități de predare-învățare-evaluare, programate în mod compact sau periodic, care presupune întâlnirea nemijlocită în spațiul universitar a studenților cu cadrele didactice;\n\n**4.3.** *instruire/ evaluare sincronă la distanță* – proces didactic la care studenții și cadrele didactice participă concomitent, dar în locații diferite. Instruirea sincronă implică o strategie de predare- învățare structurată, în care activitățile didactice sunt programate conform orarului și se adresează unor clase virtuale, iar studenții beneficiază de interacțiuni în timp real. Aceste cursuri pot fi oferite prin videoconferință, conferință web, conferință audio etc.;\n\n**4.4.** *instruire asincronă/ evaluare la distanță* – proces didactic în care activitatea de învățare a studenților nu se realizează concomitent cu activitatea de predare a cadrelor didactice, iar conținutul învățării este furnizat prin resurse digitale de studii, la care studenții au acces. Instruirea are la bază materiale-suport pentru studiul individual, implementate pe platforme specializate de management al predării, învățării și evaluării de tip e-learning;\n\n**4.5.** *resursă educațională digitală* – suport informațional, prezentat în format digital ca document sau program preconizat pentru formare educațională și/ sau științifică.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n2. În sensul prezentului Regulament, noțiunile utilizate semnifică:\n\n4.1. *învățământ la distanță* (în continuare ÎD) – formă flexibilă de organizare a procesului didactic care oferă studenților posibilitatea de a opta asupra locului și timpului în care să se instruiască. Învățământul la distanță oferă studii combinate de activități realizate preponderent în mediul virtual cu ajutorul tehnologiilor informaționale și de comunicație, <u>sincron</u> și <u>asincron</u>;\n\n**4.2.** *învățământul cu frecvență redusă* (în continuare ÎFR) – formă de organizare a proceselor didactice caracterizată prin activități de predare-învățare-evaluare, programate în mod compact sau periodic, care presupune întâlnirea nemijlocită în spațiul universitar a studenților cu cadrele didactice;\n\n**4.3.** *instruire/ evaluare sincronă la distanță* – proces didactic la care studenții și cadrele didactice participă concomitent, dar în locații diferite. Instruirea sincronă implică o strategie de predare- învățare structurată, în care activitățile didactice sunt programate conform orarului și se adresează unor clase virtuale, iar studenții beneficiază de interacțiuni în timp real. Aceste cursuri pot fi oferite prin videoconferință, conferință web, conferință audio etc.;\n\n**4.4.** *instruire asincronă/ evaluare la distanță* – proces didactic în care activitatea de învățare a studenților nu se realizează concomitent cu activitatea de predare a cadrelor didactice, iar conținutul învățării este furnizat prin resurse digitale de studii, la care studenții au acces. Instruirea are la bază materiale-suport pentru studiul individual, implementate pe platforme specializate de management al predării, învățării și evaluării de tip e-learning;\n\n**4.5.** *resursă educațională digitală* – suport informațional, prezentat în format digital ca document sau program preconizat pentru formare educațională și/ sau științifică.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "4677263c9b95c9c48e32af3c5400c379834fa74986564450494e659237aeddfe"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00005",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 5,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "**5.** Obiectivele organizării și desfășurării formelor ÎD și ÎFR sunt următoarele:\n\n1. extinderea și diversificarea metodelor de instruire, în vederea optimizării procesului educațional;\n2. proiectarea și implementarea unor programe de studii flexibile, aliniate atât la cerințele individuale de formare ale beneficiarilor de studii superioare, cât și la dinamica pieței forței de muncă;\n3. creșterea eficienței și eficacității procesului de predare-învățare-evaluare, prin valorificarea tehnologiilor educaționale moderne;\n4. asigurarea standardelor de calitate în formarea profesională inițială și continuă;\n5. promovarea incluziunii educaționale prin facilitarea accesului la studii superioare de calitate pentru persoanele cu cerințe educaționale speciale sau în situații speciale.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n**5.** Obiectivele organizării și desfășurării formelor ÎD și ÎFR sunt următoarele:\n\n1. extinderea și diversificarea metodelor de instruire, în vederea optimizării procesului educațional;\n2. proiectarea și implementarea unor programe de studii flexibile, aliniate atât la cerințele individuale de formare ale beneficiarilor de studii superioare, cât și la dinamica pieței forței de muncă;\n3. creșterea eficienței și eficacității procesului de predare-învățare-evaluare, prin valorificarea tehnologiilor educaționale moderne;\n4. asigurarea standardelor de calitate în formarea profesională inițială și continuă;\n5. promovarea incluziunii educaționale prin facilitarea accesului la studii superioare de calitate pentru persoanele cu cerințe educaționale speciale sau în situații speciale.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "99e1fb24eb87f7a200eed14399826735801464784e2faa5088b20993da30f492"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00006",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 6,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "**6.** Organizarea ÎD și ÎFR este permisă pentru programele de studii superioare acreditate pentru care USM desfășoară forma de organizare a învățământului cu frecvență. Acreditarea poate fi acordată de Agenția Națională de Asigurare a Calității în Educație și Cercetare (în continuare ANACEC) sau de o altă agenție de asigurare a calității recunoscută, înscrisă în Registrul European pentru Asigurarea Calității în Învățământul Superior (în continuare EQAR). Programele organizate în regim la distanță și cu frecvență redusă trebuie să asigure aceleași rezultate ale învățării ca și cele aferente formei cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n**6.** Organizarea ÎD și ÎFR este permisă pentru programele de studii superioare acreditate pentru care USM desfășoară forma de organizare a învățământului cu frecvență. Acreditarea poate fi acordată de Agenția Națională de Asigurare a Calității în Educație și Cercetare (în continuare ANACEC) sau de o altă agenție de asigurare a calității recunoscută, înscrisă în Registrul European pentru Asigurarea Calității în Învățământul Superior (în continuare EQAR). Programele organizate în regim la distanță și cu frecvență redusă trebuie să asigure aceleași rezultate ale învățării ca și cele aferente formei cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "5569fee7a5d01c89508527c6bc4d7bc0d526950b19cf9a9ed18b95e1cee27e31"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00007",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 7,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "**7.** Pentru programele de studii de licență sau master acreditate, pentru forma de organizare a învățământului cu frecvență, USM are dreptul de a organiza același program și în formele ÎD și ÎFR, cu condiția aprobării acestuia de către Senat, fără a mai fi necesară solicitarea unei evaluări externe pentru autorizarea provizorie de funcționare. În această situație, programele respective sunt considerate autorizate provizoriu de drept, însă rămân supuse obligației de a parcurge procesul de acreditare, în conformitate cu prevederile cadrului normativ în vigoare.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n**7.** Pentru programele de studii de licență sau master acreditate, pentru forma de organizare a învățământului cu frecvență, USM are dreptul de a organiza același program și în formele ÎD și ÎFR, cu condiția aprobării acestuia de către Senat, fără a mai fi necesară solicitarea unei evaluări externe pentru autorizarea provizorie de funcționare. În această situație, programele respective sunt considerate autorizate provizoriu de drept, însă rămân supuse obligației de a parcurge procesul de acreditare, în conformitate cu prevederile cadrului normativ în vigoare.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "3ba46650c12d629b522add3a54e2c6ed0f95a90d5dfb09b5ff2e6c1264d9252f"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00008",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 8,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "**8.** USM dispune de politici instituționale și mecanisme manageriale integrate, orientate spre atingerea obiectivelor strategice educaționale, care includ inițierea, dezvoltarea, implementarea și administrarea formelor ÎD și ÎFR.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n**8.** USM dispune de politici instituționale și mecanisme manageriale integrate, orientate spre atingerea obiectivelor strategice educaționale, care includ inițierea, dezvoltarea, implementarea și administrarea formelor ÎD și ÎFR.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "697a7f8c0b9811e9ae6d2775ba690c7cbac52d5ebc6792ee9592946f21372674"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00009",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 9,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "1. ÎD și ÎFR valorifică concepte și tehnologii educaționale moderne care permit implementarea unor programe de studii caracterizate printr-un grad ridicat de flexibilitate în ceea ce privește locul și timpul alocat învățării. Aceste forme de organizare a procesului educațional facilitează participarea activă a studenților și cadrelor didactice în comunități academice virtuale, contribuind astfel la consolidarea unei experiențe educaționale interactive și incluzive.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n1. ÎD și ÎFR valorifică concepte și tehnologii educaționale moderne care permit implementarea unor programe de studii caracterizate printr-un grad ridicat de flexibilitate în ceea ce privește locul și timpul alocat învățării. Aceste forme de organizare a procesului educațional facilitează participarea activă a studenților și cadrelor didactice în comunități academice virtuale, contribuind astfel la consolidarea unei experiențe educaționale interactive și incluzive.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "82af82bcc42a05fb75824aa8baf3f8a18f3b6011ee0ceb1a54a5e9689856c6a5"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00010",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 10,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "2. În contextul organizării programelor de studii în regim de ÎD și ÎFR, USM își asumă responsabilitatea de a asigura servicii educaționale de calitate echivalentă cu cele furnizate în cadrul învățământului la forma de organizare a învățământului cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n2. În contextul organizării programelor de studii în regim de ÎD și ÎFR, USM își asumă responsabilitatea de a asigura servicii educaționale de calitate echivalentă cu cele furnizate în cadrul învățământului la forma de organizare a învățământului cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "3e2d48753a922aa78d7baa0202791aa4844c9b074d37e527bee32004fd8a585d"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00011",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 11,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "3. În cadrul USM, pentru formele de organizare a învățământului ÎD și ÎFR, sistemul de credite ECTS este aplicat în același volum ca și pentru forma de organizare a învățământului cu frecvență. Se respectă un raport specific între orele de contact direct și orele de studiu individual, conform prevederilor Regulamentul de organizare și desfășurare a învățământului la distanță și cu frecvență redusă în cadrul studiilor superioare de licență și de master (HG Nr.164 din 26.03.2025).",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n3. În cadrul USM, pentru formele de organizare a învățământului ÎD și ÎFR, sistemul de credite ECTS este aplicat în același volum ca și pentru forma de organizare a învățământului cu frecvență. Se respectă un raport specific între orele de contact direct și orele de studiu individual, conform prevederilor Regulamentul de organizare și desfășurare a învățământului la distanță și cu frecvență redusă în cadrul studiilor superioare de licență și de master (HG Nr.164 din 26.03.2025).",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "008071cd20c25531fe3c05f2196992801701be2f5b7fcaf27438557baf976efa"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00012",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 12,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "4. În contextul ÎD și ÎFR, studiile superioare de licență (ciclul I) la USM se desfășoară cu un an mai mult față de forma de organizare a învățământului cu frecvență (inclusiv pentru programele de dublă specializare), și corespund unui număr total de 180, respectiv 240 de credite ECTS.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n4. În contextul ÎD și ÎFR, studiile superioare de licență (ciclul I) la USM se desfășoară cu un an mai mult față de forma de organizare a învățământului cu frecvență (inclusiv pentru programele de dublă specializare), și corespund unui număr total de 180, respectiv 240 de credite ECTS.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "47d33b0d3faacb2185f33c6422711544612a0b00a78e3bdcc7b5492a1c6d1b05"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00013",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 13,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "5. În cazul studiilor superioare de master (ciclul II), ÎD și ÎFR la USM se desfășoară cu un semestru mai mult față de forma de organizare a învățământului cu frecvență, și corespund unui număr total de 90, respectiv 120 de credite ECTS.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n5. În cazul studiilor superioare de master (ciclul II), ÎD și ÎFR la USM se desfășoară cu un semestru mai mult față de forma de organizare a învățământului cu frecvență, și corespund unui număr total de 90, respectiv 120 de credite ECTS.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "31ee9844cd3ed45f4fe57d47d14cc9724a48e4ad75472cf7182c139048aa18f8"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00014",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 14,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "6. În cadrul USM admiterea la ÎD și ÎFR se organizează concomitent cu admiterea la forma de organizare a învățământului cu frecvență, în conformitate cu cadrul normativ instituțional elaborat în baza actelor normative aprobate de Ministerul Educației și Cercetării.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n6. În cadrul USM admiterea la ÎD și ÎFR se organizează concomitent cu admiterea la forma de organizare a învățământului cu frecvență, în conformitate cu cadrul normativ instituțional elaborat în baza actelor normative aprobate de Ministerul Educației și Cercetării.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "df59e397e35a3b176b9c24d38ef8432f0473dec44dfc1dae6fdcf06a7191a973"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00015",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 15,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "7. Candidații înmatriculați la un program de master, în regim de ÎD și ÎFR, într-un domeniu diferit de cel absolvit la ciclul de licență, au obligația de a acumula un minim curricular de 30 de credite ECTS la disciplinele fundamentale și de specialitate ale programului de studii, aceasta constituind o condiție prealabilă obligatorie pentru continuarea studiilor în cadrul programului respectiv.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n7. Candidații înmatriculați la un program de master, în regim de ÎD și ÎFR, într-un domeniu diferit de cel absolvit la ciclul de licență, au obligația de a acumula un minim curricular de 30 de credite ECTS la disciplinele fundamentale și de specialitate ale programului de studii, aceasta constituind o condiție prealabilă obligatorie pentru continuarea studiilor în cadrul programului respectiv.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "1ede88c0d2b123c4d86a28e069e8b30d1213ea63fae4cc5aa26ec97db4be9cbd"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00016",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 16,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "8. Structurile instituționale responsabile de managementul programelor de studii ÎD și ÎFR își desfășoară activitatea, în baza prezentului Regulament, pe următoarele dimensiuni:\n\n16.1. asigurarea informării complete a candidaților și a studenților privind programele de studii oferite, tipul de diplomă acordată, condițiile de admitere, taxele de studii, eventualele costuri suplimentare, metodele de evaluare, precum și tehnologiile de comunicare utilizate;\n16.2. garantarea accesului tuturor studenților înmatriculați la aceste forme de învățământ la serviciile de suport, inclusiv asistență la înscriere, acces la resurse educaționale, mijloace de comunicare, suport tutorial, evidența rezultatelor academice și consiliere profesională;\n16.3. gestionarea infrastructurii de comunicare de către studenți, cadre didactice și personal administrativ;\n16.4. organizarea periodică a activităților de formare în domeniul tehnologiilor educaționale pentru cadrele didactice și personalul administrativ implicat în învățământul la distanță.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n8. Structurile instituționale responsabile de managementul programelor de studii ÎD și ÎFR își desfășoară activitatea, în baza prezentului Regulament, pe următoarele dimensiuni:\n\n16.1. asigurarea informării complete a candidaților și a studenților privind programele de studii oferite, tipul de diplomă acordată, condițiile de admitere, taxele de studii, eventualele costuri suplimentare, metodele de evaluare, precum și tehnologiile de comunicare utilizate;\n16.2. garantarea accesului tuturor studenților înmatriculați la aceste forme de învățământ la serviciile de suport, inclusiv asistență la înscriere, acces la resurse educaționale, mijloace de comunicare, suport tutorial, evidența rezultatelor academice și consiliere profesională;\n16.3. gestionarea infrastructurii de comunicare de către studenți, cadre didactice și personal administrativ;\n16.4. organizarea periodică a activităților de formare în domeniul tehnologiilor educaționale pentru cadrele didactice și personalul administrativ implicat în învățământul la distanță.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "78f25fb022ce60d3a87b98245823b000303e6038585f33c9a6c8273008fa2170"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00017",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 17,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "1. Managementul programelor de studii organizate în regim de ÎD și ÎFR este asigurat la nivelul facultăților și al departamentelor responsabile de respectivele programe.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n1. Managementul programelor de studii organizate în regim de ÎD și ÎFR este asigurat la nivelul facultăților și al departamentelor responsabile de respectivele programe.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "7529a2d958709c1575b1a30304909836102886043bfe4b8c581b7bc3515f7dd5"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00018",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 18,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "Activitatea de învățare a studentului, inclusiv studiul individual, dobândirea competențelor și atingerea rezultatelor învățării, este monitorizată și evaluată pe parcursul semestrelor prin evaluări curente și periodice, precum și în cadrul sesiunilor de examinare, în conformitate cu planul de învățământ.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\nActivitatea de învățare a studentului, inclusiv studiul individual, dobândirea competențelor și atingerea rezultatelor învățării, este monitorizată și evaluată pe parcursul semestrelor prin evaluări curente și periodice, precum și în cadrul sesiunilor de examinare, în conformitate cu planul de învățământ.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "e997b00213f03068706e4e9fec96613557c348298e9b1d8aee56dc4d78275a36"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00019",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 19,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "II. DISPOZIȚII GENERALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE",
+    "ChunkText": "**18.** Evaluările curente se desfășoară în timpul orelor practice, de laborator sau seminare și sunt realizate prin diverse metode stabilite de titularul unității de curs sau al modulului. Evaluările periodice se organizează pe parcursul semestrului, la intervale de timp aproximativ egale, prin două testări, având ca scop aprecierea progresului intermediar al studentului. Acestea se desfășoară în cadrul orelor în regim sincron (pentru ÎD) sau de contact direct (pentru ÎFR).",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > II. DISPOZIȚII GENERALE\n\nText:\n**18.** Evaluările curente se desfășoară în timpul orelor practice, de laborator sau seminare și sunt realizate prin diverse metode stabilite de titularul unității de curs sau al modulului. Evaluările periodice se organizează pe parcursul semestrului, la intervale de timp aproximativ egale, prin două testări, având ca scop aprecierea progresului intermediar al studentului. Acestea se desfășoară în cadrul orelor în regim sincron (pentru ÎD) sau de contact direct (pentru ÎFR).",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "cf653e5e4fdb4714756d7c74ae0b2cce5f4b6a668eb5dbb18abef6d7af0aa34f"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00020",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 20,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**19.** Învățământul la distanță are ca prioritate organizarea eficientă a procesului didactic și utilizarea metodelor prin care studentul realizează obiectivele curriculare. Această abordare permite flexibilitate în desfășurarea studiilor, adaptându-se nevoilor diverse ale studenților, și asigură un proces educațional centrat pe rezultate și performanță.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**19.** Învățământul la distanță are ca prioritate organizarea eficientă a procesului didactic și utilizarea metodelor prin care studentul realizează obiectivele curriculare. Această abordare permite flexibilitate în desfășurarea studiilor, adaptându-se nevoilor diverse ale studenților, și asigură un proces educațional centrat pe rezultate și performanță.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "0aea628a4a296c5cc98d532cadef05b190cf5853d3a1f5df4ec87cd68b479d70"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00021",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 21,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**20.** Autonomia și flexibilitatea ÎD sunt fundamentate pe următoarele principii:\n\n**20.1.** *Diversitatea:* Studenții beneficiază de acces la materiale-suport structurate în unități de învățare, ceea ce permite o abordare flexibilă și personalizată a disciplinei, în conformitate cu planurile de învățământ.\n\n**20.2.** *Alegerea locului de învățare:* Studenții au libertatea de a alege mediul în care vor studia, astfel încât să poată crea un cadru propice pentru procesul de învățare la distanță. Obligativitatea prezenței în spațiile USM, este stabilită prin actualul Regulament.\n\n**20.3.** *Diversitatea modalităților de prezentare a unităților de conținut:* Diversele modalități de prezentare a materialelor educaționale sunt adaptate nevoilor de învățare a studenților, incluzând cursuri video, lecții interactive, materiale scrise și alte resurse educaționale.\n\n**20.4.** *Timp flexibil de învățare:* ÎD permite individualizarea procesului de învățare, prin faptul că volumul de muncă și timpul pretins de programul de studii, permite să fie satisfăcut, prin valorificarea studiilor asincron, astfel încât studenții să poată concilia studiile cu alte responsabilități profesionale și personale.\n\n**20.5.** *Metode variate de învățare:* ÎD include o gamă largă de metode pedagogice, cum ar fi simulări, proiecte practice, discuții online și alte strategii care contribuie la dezvoltarea abilităților și aprofundarea cunoștințelor academice.\n\n**20.6.** *Utilizarea tehnologiilor informaționale și de comunicare:* Studenții beneficiază de instrumente tehnologice adaptate activităților de autoînvățare și autoevaluare, precum și de resurse digitale stocate pe platforma Moodle, care susține diversitatea de conținut educațional.\n\n**20.7.** *Comunicare eficientă cu cadrele didactice și colegii:* Studenții pot interacționa cu profesorii și colegii prin canale de comunicare oferite de configurația adaptată a platformei Moodle.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**20.** Autonomia și flexibilitatea ÎD sunt fundamentate pe următoarele principii:\n\n**20.1.** *Diversitatea:* Studenții beneficiază de acces la materiale-suport structurate în unități de învățare, ceea ce permite o abordare flexibilă și personalizată a disciplinei, în conformitate cu planurile de învățământ.\n\n**20.2.** *Alegerea locului de învățare:* Studenții au libertatea de a alege mediul în care vor studia, astfel încât să poată crea un cadru propice pentru procesul de învățare la distanță. Obligativitatea prezenței în spațiile USM, este stabilită prin actualul Regulament.\n\n**20.3.** *Diversitatea modalităților de prezentare a unităților de conținut:* Diversele modalități de prezentare a materialelor educaționale sunt adaptate nevoilor de învățare a studenților, incluzând cursuri video, lecții interactive, materiale scrise și alte resurse educaționale.\n\n**20.4.** *Timp flexibil de învățare:* ÎD permite individualizarea procesului de învățare, prin faptul că volumul de muncă și timpul pretins de programul de studii, permite să fie satisfăcut, prin valorificarea studiilor asincron, astfel încât studenții să poată concilia studiile cu alte responsabilități profesionale și personale.\n\n**20.5.** *Metode variate de învățare:* ÎD include o gamă largă de metode pedagogice, cum ar fi simulări, proiecte practice, discuții online și alte strategii care contribuie la dezvoltarea abilităților și aprofundarea cunoștințelor academice.\n\n**20.6.** *Utilizarea tehnologiilor informaționale și de comunicare:* Studenții beneficiază de instrumente tehnologice adaptate activităților de autoînvățare și autoevaluare, precum și de resurse digitale stocate pe platforma Moodle, care susține diversitatea de conținut educațional.\n\n**20.7.** *Comunicare eficientă cu cadrele didactice și colegii:* Studenții pot interacționa cu profesorii și colegii prin canale de comunicare oferite de configurația adaptată a platformei Moodle.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "52fab29400d51d293e019dbe405e758620962dfe5910d86ba36c46376ba2033d"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00022",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 22,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**21.** USM implementează ÎD doar în contextul infrastructurii tehnice adecvate pentru desfășurarea, monitorizarea și înregistrarea activităților de predare, învățare și evaluare specifice acestui sistem. Organizarea activităților în regim sincron și asincron se realizează alternativ, în funcție de particularitățile programului de studii.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**21.** USM implementează ÎD doar în contextul infrastructurii tehnice adecvate pentru desfășurarea, monitorizarea și înregistrarea activităților de predare, învățare și evaluare specifice acestui sistem. Organizarea activităților în regim sincron și asincron se realizează alternativ, în funcție de particularitățile programului de studii.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "47623756fa83957c4a98d2b413749922a54ccf71b5634c96fc534a1ecd31accc"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00023",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 23,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**22.** În cadrul USM nu se va organiza ÎD pentru domeniile 021 Arte, 0731.1 Arhitectură, 1001 Motricitate specială și recuperare, 103 Servicii ale securității.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**22.** În cadrul USM nu se va organiza ÎD pentru domeniile 021 Arte, 0731.1 Arhitectură, 1001 Motricitate specială și recuperare, 103 Servicii ale securității.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "c5f5526770b7c874337f5fe5ce565dcac2484ee34df7a86743d640ba60f6ad4c"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00024",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 24,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**23.** USM asigură accesul la platforma Moodle, care permite monitorizarea proceselor de învățare și evaluare prin conturi personalizate pentru fiecare utilizator, garantând totodată condiții adecvate de securitate și protecția datelor cu caracter personal.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**23.** USM asigură accesul la platforma Moodle, care permite monitorizarea proceselor de învățare și evaluare prin conturi personalizate pentru fiecare utilizator, garantând totodată condiții adecvate de securitate și protecția datelor cu caracter personal.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "9773f9d2afb26a90ac5da2fad10a35df5a96ef438d7d4fb2a5f9883fd21d4721"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00025",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 25,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**24.** În cadrul USM se vor aplica proceduri riguroase de Securitate privind informațiile și protecția datelor cu caracter personal.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**24.** În cadrul USM se vor aplica proceduri riguroase de Securitate privind informațiile și protecția datelor cu caracter personal.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "de7049060753721f3e16e79601f7a4d2215a93e89208d960090ab59664649de7"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00026",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 26,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**25.** La începutul fiecărui semestru, studenții beneficiază de acces la resursele educaționale aferente disciplinelor sau modulelor incluse în planul de învățământ al semestrului în curs.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**25.** La începutul fiecărui semestru, studenții beneficiază de acces la resursele educaționale aferente disciplinelor sau modulelor incluse în planul de învățământ al semestrului în curs.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "9894a0b56b3fe5649633a72d083b4ea5d4d4a29f95e0bc11c72510569427225b"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00027",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 27,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**26.** Organizarea și desfășurarea ÎD implică un personal academic dedicat, format din responsabili de program, cadre didactice care susțin activitățile didactice în regim sincron și asincron, manageri la nivel de facultate, precum și administratori ai platformei Moodle.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**26.** Organizarea și desfășurarea ÎD implică un personal academic dedicat, format din responsabili de program, cadre didactice care susțin activitățile didactice în regim sincron și asincron, manageri la nivel de facultate, precum și administratori ai platformei Moodle.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "fd940ff4505a1bbb9ba053098caecd649d867fb6c026fc00fc2c370231dc920b"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00028",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 28,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**27.** Activitățile didactice în cadrul ÎD includ următoarele componente esențiale:\n\n27.1. Elaborarea resurselor educaționale concepute special, în conformitate cu cerințele tehnologiilor specifice ÎD.\n\n27.2. Desfășurarea activităților de predare în format online, în regim sincron.\n\n27.3. Prezentarea structurată a materialelor-suport de către cadrele didactice și activități de învățare realizate de către studenți în regim asincron.\n\n27.4. Asigurarea, la nivel instituțional, a infrastructurii digitale și a platformei educaționale Moodle necesare desfășurării proceselor de predare, învățare, evaluare și comunicare specifice ÎD.\n\n27.5. Garantarea accesului studenților și al întregului personal implicat în procesul educațional la platforma Moodle și la resursele disponibile pe aceasta.\n\n27.6. Dispunerea de instrumente tehnice adecvate pentru monitorizarea și înregistrarea activităților didactice desfășurate în regim sincron și asincron.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**27.** Activitățile didactice în cadrul ÎD includ următoarele componente esențiale:\n\n27.1. Elaborarea resurselor educaționale concepute special, în conformitate cu cerințele tehnologiilor specifice ÎD.\n\n27.2. Desfășurarea activităților de predare în format online, în regim sincron.\n\n27.3. Prezentarea structurată a materialelor-suport de către cadrele didactice și activități de învățare realizate de către studenți în regim asincron.\n\n27.4. Asigurarea, la nivel instituțional, a infrastructurii digitale și a platformei educaționale Moodle necesare desfășurării proceselor de predare, învățare, evaluare și comunicare specifice ÎD.\n\n27.5. Garantarea accesului studenților și al întregului personal implicat în procesul educațional la platforma Moodle și la resursele disponibile pe aceasta.\n\n27.6. Dispunerea de instrumente tehnice adecvate pentru monitorizarea și înregistrarea activităților didactice desfășurate în regim sincron și asincron.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "dfe3321c106a2e7d5a0235c8c15cb6af09e3b09f3b5bb888fd16c718d05de7cf"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00029",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 29,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**28.** Durata semestrului la ÎD este de 15 săptămâni, iar volumul de studii este cuprins între 20 și 25 de credite ECTS pe semestru. Creditele ECTS aferente unei discipline sau unui modul distinct se alocă integral și nu pot fi fragmentate sau obținute parțial.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**28.** Durata semestrului la ÎD este de 15 săptămâni, iar volumul de studii este cuprins între 20 și 25 de credite ECTS pe semestru. Creditele ECTS aferente unei discipline sau unui modul distinct se alocă integral și nu pot fi fragmentate sau obținute parțial.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "80ea0f43a5e80f59e884ee321f471839ad8d1bf5c738188f83b9ddf3d0dbf5ad"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00030",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 30,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**29.** Calendarul academic pentru ÎD se elaborează în conformitate cu aceleași principii ca și în cazul calendarului academic de la forma de organizare a învățământului cu frecvență. Acesta include activitățile didactice, evaluările, atestările, sesiunile de examinare și de recuperare, precum și susținerea proiectelor și a tezelor de licență/ master.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**29.** Calendarul academic pentru ÎD se elaborează în conformitate cu aceleași principii ca și în cazul calendarului academic de la forma de organizare a învățământului cu frecvență. Acesta include activitățile didactice, evaluările, atestările, sesiunile de examinare și de recuperare, precum și susținerea proiectelor și a tezelor de licență/ master.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "0fdee62d12a767be255e5b23904d5badf52989549bafa2eb18772a8296d8a815"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00031",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 31,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**30.** În cadrul ÎD, pentru fiecare disciplină sau modul se respectă structura proporțională a activităților didactice (cursuri, seminare, lucrări de laborator și activități practice) prevăzută în planul de învățământ pentru forma de organizare a învățământului cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**30.** În cadrul ÎD, pentru fiecare disciplină sau modul se respectă structura proporțională a activităților didactice (cursuri, seminare, lucrări de laborator și activități practice) prevăzută în planul de învățământ pentru forma de organizare a învățământului cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "2861e7be7532e1254fa456c69a3a0fcdfa70be5ca23cd4b874d5a5741fce7c8b"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00032",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 32,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**31.** În vederea asigurării echivalenței între formele de organizare a învățământului, fiecare disciplină va include următoarele tipuri de activități didactice:\n\n31.1. Cursurile (prelegerile) și seminarele se desfășoară în regim sincron, cu participarea simultană a cadrelor didactice și studenților aflați în locații diferite.\n\n31.2. Disciplinele sau modulele cu caracter aplicativ și experimental, care includ activități de laborator sau practice, se vor desfășura sincron. Cel puțin 50% din numărul total de ore planificate pentru acestea vor avea loc cu prezența fizică a studenților în sălile de curs, laboratoare. Aceste activități pot fi organizate compact, în afara structurii standard a calendarului academic, pentru a eficientiza utilizarea timpului.\n\n**31.3.** Activitățile de studiu individual se realizează, inclusiv și prin resurse educaționale digitale puse la dispoziția studenților pe platforma instituțională Moodle. Astfel, 50% din orele repartizate pentru studiul individual la disciplină, vor fi realizate în baza materialelor curriculare- suport, prin învățământ asincron.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**31.** În vederea asigurării echivalenței între formele de organizare a învățământului, fiecare disciplină va include următoarele tipuri de activități didactice:\n\n31.1. Cursurile (prelegerile) și seminarele se desfășoară în regim sincron, cu participarea simultană a cadrelor didactice și studenților aflați în locații diferite.\n\n31.2. Disciplinele sau modulele cu caracter aplicativ și experimental, care includ activități de laborator sau practice, se vor desfășura sincron. Cel puțin 50% din numărul total de ore planificate pentru acestea vor avea loc cu prezența fizică a studenților în sălile de curs, laboratoare. Aceste activități pot fi organizate compact, în afara structurii standard a calendarului academic, pentru a eficientiza utilizarea timpului.\n\n**31.3.** Activitățile de studiu individual se realizează, inclusiv și prin resurse educaționale digitale puse la dispoziția studenților pe platforma instituțională Moodle. Astfel, 50% din orele repartizate pentru studiul individual la disciplină, vor fi realizate în baza materialelor curriculare- suport, prin învățământ asincron.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "c5b6e2a5012ed9df487ae76af51d852c09681c4304ff6fec28604755a981d68b"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00033",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 33,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**32.** În cadrul ÎD, corelarea dintre orele de contact direct (desfășurate sincron – online sau cu prezență fizică) și timpul alocat studiului individual se stabilește, raportându-se la volumul total de ore/credite prevăzut pentru disciplina sau modulul respectiv în forma de organizare a învățământului cu frecvență, astfel:\n\na) la ciclul licență, se aplică raportul de 1 oră de contact direct la 2–3 ore de studiu individual;\nb) la ciclul master, se aplică raportul de 1 oră de contact direct la 3–4 ore de studiu individual.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**32.** În cadrul ÎD, corelarea dintre orele de contact direct (desfășurate sincron – online sau cu prezență fizică) și timpul alocat studiului individual se stabilește, raportându-se la volumul total de ore/credite prevăzut pentru disciplina sau modulul respectiv în forma de organizare a învățământului cu frecvență, astfel:\n\na) la ciclul licență, se aplică raportul de 1 oră de contact direct la 2–3 ore de studiu individual;\nb) la ciclul master, se aplică raportul de 1 oră de contact direct la 3–4 ore de studiu individual.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "6f71c23acfb389d51555e6e1d82098c2e021960b86814d24eda5a665235fb05a"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00034",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 34,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**33.** Tehnologiile utilizate în ÎD permit realizarea evaluărilor curente și periodice, având drept scop monitorizarea progresului în atingerea obiectivelor de formare profesională. Testele de evaluare/ autoevaluare sunt concepute astfel încât să ofere răspunsuri și feedback automatizat, facilitând identificarea aspectelor ce necesită aprofundare în cadrul disciplinei sau modulului.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**33.** Tehnologiile utilizate în ÎD permit realizarea evaluărilor curente și periodice, având drept scop monitorizarea progresului în atingerea obiectivelor de formare profesională. Testele de evaluare/ autoevaluare sunt concepute astfel încât să ofere răspunsuri și feedback automatizat, facilitând identificarea aspectelor ce necesită aprofundare în cadrul disciplinei sau modulului.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "ebbb4e87e68eb617c62c521246f38bef4b713a21291a42e324d2999615e3e01e"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00035",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 35,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**34.** Evaluările curente și periodice în cadrul ÎD se desfășoară în regim sincron, utilizând instrumente specifice integrate în platforma Moodle în timpul orelor practice. La decizia USM, aceste evaluări pot fi organizate și cu prezența fizică a studenților în sălile din campusul universitar.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**34.** Evaluările curente și periodice în cadrul ÎD se desfășoară în regim sincron, utilizând instrumente specifice integrate în platforma Moodle în timpul orelor practice. La decizia USM, aceste evaluări pot fi organizate și cu prezența fizică a studenților în sălile din campusul universitar.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "17b139ec7e236445e6539535f0ce5a09fa450ef12ad8ea463843632a666e9e0d"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00036",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 36,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**35.** La finalizarea unei discipline sau a unui modul, evaluările semestriale se realizează fie cu prezență fizică, fie în regim sincron, în centre de evaluare special amenajate, dotate cu mijloace de supraveghere fizică sau video. Aceste centre pot fi instituții de învățământ, ambasade, consulate sau alte locații desemnate de USM.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**35.** La finalizarea unei discipline sau a unui modul, evaluările semestriale se realizează fie cu prezență fizică, fie în regim sincron, în centre de evaluare special amenajate, dotate cu mijloace de supraveghere fizică sau video. Aceste centre pot fi instituții de învățământ, ambasade, consulate sau alte locații desemnate de USM.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "9b1ab94add3bf5ee711584aebdca5107a8a2a81bd6c3b5e8458479e8b5eef534"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00037",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 37,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**36.** Platforma Moodle pune la dispoziție resurse educaționale și instrumente de comunicare ce favorizează formarea unei comunități virtuale active între cadrele didactice și grupurile de studenți. Timpul, locul și ritmul de învățare pot oferi un grad înalt de flexibilitate.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**36.** Platforma Moodle pune la dispoziție resurse educaționale și instrumente de comunicare ce favorizează formarea unei comunități virtuale active între cadrele didactice și grupurile de studenți. Timpul, locul și ritmul de învățare pot oferi un grad înalt de flexibilitate.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "a158f1715880938c173d0c97309ef80ae4daf4824649649f9a6112121758f96d"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00038",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 38,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**37.** Conținutul disciplinelor sau modulelor, elaborat în conformitate cu curriculumul aprobat, este transmis prin resurse educaționale specifice, cu accent pe interacțiunea între cadru didactic și student adaptate specificului învățământului sincron sau asincron.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**37.** Conținutul disciplinelor sau modulelor, elaborat în conformitate cu curriculumul aprobat, este transmis prin resurse educaționale specifice, cu accent pe interacțiunea între cadru didactic și student adaptate specificului învățământului sincron sau asincron.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "7db2191f3ad20939f74fac22684d95872099621e1cab5a69bd2beec0f142bec2"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00039",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 39,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**38.** Platforma Moodle a Universității, integrează următoarele componente esențiale:\n\n**38.1.** Curriculumul disciplinei.\n\n**38.2.** Recomandări și instrucțiuni privind parcurgerea conținutului disciplinei/ modulului, inclusiv detalii referitoare la organizarea procesului de învățare și a activităților individuale ale studenților.\n\n**38.3.** Informații privind modul de organizare și desfășurare a evaluărilor.\n\n**38.4.** Resurse educaționale digitale, precum: materiale-suport pentru activitățile sincron și materiale-suport pentru activitățile asincron (texte, fișiere cu imagini, prezentări multimedia, materiale video și audio, modele statice și dinamice, obiecte din realități virtuale, simulări interactive, materiale cartografice, elemente de grafică de afaceri), precum și alte materiale didactice relevante, adaptate în funcție de rezultatele învățării pretinse.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**38.** Platforma Moodle a Universității, integrează următoarele componente esențiale:\n\n**38.1.** Curriculumul disciplinei.\n\n**38.2.** Recomandări și instrucțiuni privind parcurgerea conținutului disciplinei/ modulului, inclusiv detalii referitoare la organizarea procesului de învățare și a activităților individuale ale studenților.\n\n**38.3.** Informații privind modul de organizare și desfășurare a evaluărilor.\n\n**38.4.** Resurse educaționale digitale, precum: materiale-suport pentru activitățile sincron și materiale-suport pentru activitățile asincron (texte, fișiere cu imagini, prezentări multimedia, materiale video și audio, modele statice și dinamice, obiecte din realități virtuale, simulări interactive, materiale cartografice, elemente de grafică de afaceri), precum și alte materiale didactice relevante, adaptate în funcție de rezultatele învățării pretinse.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "279ace5cf84e702e502ffe4c759460deea9731e367ce9d38f5d10976e45d6e37"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00040",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 40,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**39.** Baza tehnico-materială necesară organizării și desfășurării ÎD, la nivelul USM, este constituită din următoarele componente:\n\n39.1. Spații educaționale destinate procesului de instruire, precum: săli de studii, aule didactice, laboratoare precum și alte structuri adecvate pentru desfășurarea activităților de ÎD, inclusiv spații pentru pregătire individuală sau asistată.\n\n39.2. Mijloace tehnico-materiale pentru producerea și difuzarea conținutului educațional digital, inclusiv: echipamente audio-video, sisteme de videoconferință, table interactive, tehnică de calcul, echipamente și dispozitive specializate pentru crearea resurselor educaționale digitale.\n\n39.3. Software specializat necesar pentru desfășurarea procesului educațional în regim online, precum: sisteme de operare, Microsoft Office precum și alte aplicații specifice accesibile, în funcție de cerințele programelor de studii.\n\n39.4. Infrastructură pentru stocarea și gestionarea resurselor educaționale digitale.\n\n39.5. Mijloace moderne de comunicare și acces la cursurile electronice, incluzând: rețele de calculatoare, săli dotate cu computere, acces la internet prin rețea Wi-Fi în campusul USM, dispozitive mobile, echipamente multimedia, precum și instrumente pentru managementul studiilor și monitorizarea eficientă a procesului de evaluare.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**39.** Baza tehnico-materială necesară organizării și desfășurării ÎD, la nivelul USM, este constituită din următoarele componente:\n\n39.1. Spații educaționale destinate procesului de instruire, precum: săli de studii, aule didactice, laboratoare precum și alte structuri adecvate pentru desfășurarea activităților de ÎD, inclusiv spații pentru pregătire individuală sau asistată.\n\n39.2. Mijloace tehnico-materiale pentru producerea și difuzarea conținutului educațional digital, inclusiv: echipamente audio-video, sisteme de videoconferință, table interactive, tehnică de calcul, echipamente și dispozitive specializate pentru crearea resurselor educaționale digitale.\n\n39.3. Software specializat necesar pentru desfășurarea procesului educațional în regim online, precum: sisteme de operare, Microsoft Office precum și alte aplicații specifice accesibile, în funcție de cerințele programelor de studii.\n\n39.4. Infrastructură pentru stocarea și gestionarea resurselor educaționale digitale.\n\n39.5. Mijloace moderne de comunicare și acces la cursurile electronice, incluzând: rețele de calculatoare, săli dotate cu computere, acces la internet prin rețea Wi-Fi în campusul USM, dispozitive mobile, echipamente multimedia, precum și instrumente pentru managementul studiilor și monitorizarea eficientă a procesului de evaluare.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "c6440777672f03ee366fccec341bd588902b6c1a1377da1b607c300e7237176e"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00041",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 41,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**40.** Studenții înmatriculați la programe de studii în regim de ÎD au obligația de a participa, atât în regim sincron, cât și asincron, la toate activitățile prevăzute în planul de învățământ, inclusiv la cele care implică prezența fizică, conform cerințelor specifice fiecărei discipline.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**40.** Studenții înmatriculați la programe de studii în regim de ÎD au obligația de a participa, atât în regim sincron, cât și asincron, la toate activitățile prevăzute în planul de învățământ, inclusiv la cele care implică prezența fizică, conform cerințelor specifice fiecărei discipline.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "1c889b07c64f16126125e53464cb1c9ec5b1b677baf56b0bc11ed47d1ec35c5a"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00042",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 42,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**41.** Participarea la activitățile sincrone desfășurate online presupune interacțiunea directă cu cadrele didactice prin intermediul mijloacelor audio și video. Studenții au responsabilitatea de a deține echipamentele tehnice necesare (calculator, cameră video, microfon etc.) și software-ul corespunzător pentru buna desfășurare a procesului educațional.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**41.** Participarea la activitățile sincrone desfășurate online presupune interacțiunea directă cu cadrele didactice prin intermediul mijloacelor audio și video. Studenții au responsabilitatea de a deține echipamentele tehnice necesare (calculator, cameră video, microfon etc.) și software-ul corespunzător pentru buna desfășurare a procesului educațional.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "b4661280a72c5a0e40e25603cbfec354b086fec3ab5bda42fb6d00f8eed9087b"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00043",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 43,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**42.** În cadrul activităților online sincrone, studenții sunt obligați să utilizeze camera video și microfonul pentru a permite identificarea personală și pentru a asigura o interacțiune activă în procesul de învățare.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**42.** În cadrul activităților online sincrone, studenții sunt obligați să utilizeze camera video și microfonul pentru a permite identificarea personală și pentru a asigura o interacțiune activă în procesul de învățare.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "49453782199df1c238aa33bdad65a729f93a2d8fa857196a2dd3e051c4ff6f5a"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00044",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 44,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ",
+    "ChunkText": "**43.** Normarea activităților didactice și științifico-didactice aferente componentelor auditoriale și ne-auditoriale din cadrul ÎD se realizează după cum urmează:\n\n43.1. Activitățile sincrone (desfășurate în regim online) sunt normate similar cu cele aferente formei de organizare a învățământului cu frecvență.\n\n43.2. Pentru activitățile asincrone și cele de evaluare periodică, se alocă 2 ore (categoria I) per grupă, săptămânal. În cazul când obiectivele curriculare la disciplină (curs și seminar) sunt realizate de către două cadre didactice, aceste ore se repartizează în mod egal, deoarece ambele cadre didactice sunt responsabile de elaborarea materialelor-suport și gestionarea implicării studentului în procesul de studii.\n\n43.3. Activitățile asistate (teste, examene, coordonarea proiectelor și tezelor de an/ licență/ master) sunt normate în concordanță cu prevederile aplicabile formei de organizare a învățământului cu frecvență.\n\n43.4. Proiectarea și elaborarea resurselor educaționale specifice ÎD (materiale didactice suport) sunt normate cu un volum de 100–180 de ore (categoria III) per disciplină, în funcție de numărul de credite (30 h per credit).",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > III. ÎNVĂȚĂMÂNTUL LA DISTANȚĂ\n\nText:\n**43.** Normarea activităților didactice și științifico-didactice aferente componentelor auditoriale și ne-auditoriale din cadrul ÎD se realizează după cum urmează:\n\n43.1. Activitățile sincrone (desfășurate în regim online) sunt normate similar cu cele aferente formei de organizare a învățământului cu frecvență.\n\n43.2. Pentru activitățile asincrone și cele de evaluare periodică, se alocă 2 ore (categoria I) per grupă, săptămânal. În cazul când obiectivele curriculare la disciplină (curs și seminar) sunt realizate de către două cadre didactice, aceste ore se repartizează în mod egal, deoarece ambele cadre didactice sunt responsabile de elaborarea materialelor-suport și gestionarea implicării studentului în procesul de studii.\n\n43.3. Activitățile asistate (teste, examene, coordonarea proiectelor și tezelor de an/ licență/ master) sunt normate în concordanță cu prevederile aplicabile formei de organizare a învățământului cu frecvență.\n\n43.4. Proiectarea și elaborarea resurselor educaționale specifice ÎD (materiale didactice suport) sunt normate cu un volum de 100–180 de ore (categoria III) per disciplină, în funcție de numărul de credite (30 h per credit).",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "e536211100d57f8e9baa31ea4f1df36ac169f4b2c56547014a2d1f849a3becbb"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00045",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 45,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "1. În cadrul USM, ÎFR este organizat cu prioritate pentru persoanele aflate în câmpul muncii, în domeniul de formare profesională ales la admitere, precum și pentru studenții cu dizabilități care, din motive obiective, nu pot participa la studii cu forma de organizare a învățământului cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n1. În cadrul USM, ÎFR este organizat cu prioritate pentru persoanele aflate în câmpul muncii, în domeniul de formare profesională ales la admitere, precum și pentru studenții cu dizabilități care, din motive obiective, nu pot participa la studii cu forma de organizare a învățământului cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "d21b5b1958f0916383f7ef4702dbf865f33bb011e34cf5499807e781610bc612"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00046",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 46,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "2. În cadrul USM nu se va organiza ÎFR la domeniile 021 Arte, 0231 Studiul limbilor, 0313 Psihologie, 0731.1 Arhitectură, 1001 Motricitate specială și recuperare, 103 Servicii ale securității.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n2. În cadrul USM nu se va organiza ÎFR la domeniile 021 Arte, 0231 Studiul limbilor, 0313 Psihologie, 0731.1 Arhitectură, 1001 Motricitate specială și recuperare, 103 Servicii ale securității.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "ad48f4689519eaad7419942d0843f15e221806eb35a07030fc9b12ea87e1c249"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00047",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 47,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "3. Pentru ÎFR anul de studii este aliniat calendaristic cu anul universitar corespunzător formei de organizare a învățământului cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n3. Pentru ÎFR anul de studii este aliniat calendaristic cu anul universitar corespunzător formei de organizare a învățământului cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "c805ad036b269ca13751a67f59631b31144698c0a7ba3a9500b1694936e4a42c"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00048",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 48,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "4. Activitățile didactice se desfășoară conform planului de învățământ specific fiecărui program de studii, în concordanță cu calendarul academic, care prevede inclusiv perioadele destinate sesiunilor de reper și de examinare.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n4. Activitățile didactice se desfășoară conform planului de învățământ specific fiecărui program de studii, în concordanță cu calendarul academic, care prevede inclusiv perioadele destinate sesiunilor de reper și de examinare.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "4de3aff340598f92b134523983f429b7b98cf5046808b18fc2a087311865560d"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00049",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 49,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "5. Orarul activităților didactice este aprobat anterior fiecărei sesiuni și este publicat pe site-ul facultății.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n5. Orarul activităților didactice este aprobat anterior fiecărei sesiuni și este publicat pe site-ul facultății.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "2bad0efae91f730e3db63396470bcf5e2c5e3b8d37447fedf9f4aa23d9583383"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00050",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 50,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "6. Pentru ÎFR activitățile didactice sunt organizate în mod compact, prin sesiuni de predare și activități practice, precum și evaluări curente, periodice și semestriale. În funcție de specificul domeniului de studii, USM stabilește numărul sesiunilor de instruire, asigurând condiția respectării unui minimum de două sesiuni pe an academic, cu o durată totală de cel puțin 40 de zile (echivalentul a minimum 8 săptămâni pe parcursul anului).",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n6. Pentru ÎFR activitățile didactice sunt organizate în mod compact, prin sesiuni de predare și activități practice, precum și evaluări curente, periodice și semestriale. În funcție de specificul domeniului de studii, USM stabilește numărul sesiunilor de instruire, asigurând condiția respectării unui minimum de două sesiuni pe an academic, cu o durată totală de cel puțin 40 de zile (echivalentul a minimum 8 săptămâni pe parcursul anului).",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "827b83271b03b53e7261f98d87a00f598955c3bd965ef62cae557d6731cf9721"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00051",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 51,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "7. În cadrul ÎFR activitățile didactice se desfășoară în regim part-time, cu prezență fizică a studenților în sălile de curs ale USM.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n7. În cadrul ÎFR activitățile didactice se desfășoară în regim part-time, cu prezență fizică a studenților în sălile de curs ale USM.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "017ef627ef5105fcbc9228b572c284238120d0a3fcb717c07a56029b9e595a48"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00052",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 52,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "8. Studenții înmatriculați la ÎFR acumulează, pe parcursul unui an de studii, între 40 și 50 de credite ECTS. Creditele alocate unei discipline sau unui modul nu sunt divizibile și pot fi obținute doar prin finalizarea integrală a cerințelor respectivei unități de studiu.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n8. Studenții înmatriculați la ÎFR acumulează, pe parcursul unui an de studii, între 40 și 50 de credite ECTS. Creditele alocate unei discipline sau unui modul nu sunt divizibile și pot fi obținute doar prin finalizarea integrală a cerințelor respectivei unități de studiu.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "142b6c84d4310ba5125f0204d35202d5b129b0b663691192adf04ecf0b3cbcd4"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00053",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 53,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "9. Pentru a asigura echivalența între formele de organizare a învățământului, în cadrul fiecărei discipline sau modul se respectă structura proporțională a orelor de curs, seminar, laborator și activități practice prevăzută pentru forma de organizare învățământului cu frecvență. Aceste activități sunt organizate sincron, cu prezență fizică în spațiile USM.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n9. Pentru a asigura echivalența între formele de organizare a învățământului, în cadrul fiecărei discipline sau modul se respectă structura proporțională a orelor de curs, seminar, laborator și activități practice prevăzută pentru forma de organizare învățământului cu frecvență. Aceste activități sunt organizate sincron, cu prezență fizică în spațiile USM.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "826269515ec952e95e6c0237a15ba71da2c12f0baa5f2e44475b141b971c6a0e"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00054",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 54,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "10. În cadrul ÎFR, raportul dintre orele de contact direct (desfășurate cu prezență fizică în sălile de curs) și activitățile de studiu individual este stabilit în conformitate cu volumul total de ore/credite prevăzut pentru disciplina sau modulul respectiv la forma de organizare a învățământului cu frecvență, respectând proporția de 1 oră de contact direct la 4 ore de studiu individual (1:4), atât pentru ciclul de licență, cât și pentru cel de master.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n10. În cadrul ÎFR, raportul dintre orele de contact direct (desfășurate cu prezență fizică în sălile de curs) și activitățile de studiu individual este stabilit în conformitate cu volumul total de ore/credite prevăzut pentru disciplina sau modulul respectiv la forma de organizare a învățământului cu frecvență, respectând proporția de 1 oră de contact direct la 4 ore de studiu individual (1:4), atât pentru ciclul de licență, cât și pentru cel de master.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "033f29b5eff481e916943f6e75850c59a38eee85207bae67494d8dab797db0f6"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00055",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 55,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "11. Evaluările curente și periodice se desfășoară în timpul sesiunilor de predare, în sălile de curs, în cadrul seminarelor și orelor practice, fiind completate de activități de studiu individual. Acestea pot include prezentarea de proiecte, referate, lucrări de creație sau cercetare, eseuri, studii de caz, teste și alte forme de evaluare relevante.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n11. Evaluările curente și periodice se desfășoară în timpul sesiunilor de predare, în sălile de curs, în cadrul seminarelor și orelor practice, fiind completate de activități de studiu individual. Acestea pot include prezentarea de proiecte, referate, lucrări de creație sau cercetare, eseuri, studii de caz, teste și alte forme de evaluare relevante.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "5fa3c9bc206c4befe5c523ae417587d678f3960d7813cdf4bda38f50c9bc5a8d"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00056",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 56,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "12. Evaluările semestriale se pot organiza atât la finalizarea disciplinei sau modulului, cât și la încheierea semestrului de studii.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n12. Evaluările semestriale se pot organiza atât la finalizarea disciplinei sau modulului, cât și la încheierea semestrului de studii.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "a73c986d8dc35765ac5e11c44ffd197dfde11c824cf53b3be28c94d252fddd75"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00057",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 57,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "13. Studenții înscriși la programele de studii în cadrul ÎFR își asumă responsabilitatea de a finaliza toate activitățile prevăzute în planul de învățământ, inclusiv activitățile individuale.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n13. Studenții înscriși la programele de studii în cadrul ÎFR își asumă responsabilitatea de a finaliza toate activitățile prevăzute în planul de învățământ, inclusiv activitățile individuale.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "a11ebf4df96a01e7fccf18f973b8de5f3fdf08d7e85d6d12037c50af5737292c"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00058",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 58,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "14. Angajații care urmează studii în cadrul ÎFR beneficiază de concedii suplimentare, în conformitate cu Regulamentul privind acordarea garanțiilor și compensațiilor pentru salariații care îmbină munca cu studiile, aprobat prin Hotărârea Guvernului nr. 435/2007.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n14. Angajații care urmează studii în cadrul ÎFR beneficiază de concedii suplimentare, în conformitate cu Regulamentul privind acordarea garanțiilor și compensațiilor pentru salariații care îmbină munca cu studiile, aprobat prin Hotărârea Guvernului nr. 435/2007.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "9560f18079d781422e5990e4c2625ddebf8f48fffd2f29764fc056e4e78fce0e"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00059",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 59,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "15. Chemarea sau invitația la sesiune se eliberează studenților la încheierea fiecărei sesiuni, pentru perioada de studii următoare, și constituie baza legală pentru acordarea concediului suplimentar de la locul de muncă.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n15. Chemarea sau invitația la sesiune se eliberează studenților la încheierea fiecărei sesiuni, pentru perioada de studii următoare, și constituie baza legală pentru acordarea concediului suplimentar de la locul de muncă.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "4ac689d137e3198e54cd05409d8e34602d08e342eee847a58b4fc39b152281cb"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00060",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 60,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ",
+    "ChunkText": "16. Normarea didactică se realizează în aceleași condiții ca și în cazul formei de organizare a învățământului cu frecvență.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > IV. ÎNVĂȚĂMÂNTUL CU FRECVENȚĂ REDUSĂ\n\nText:\n16. Normarea didactică se realizează în aceleași condiții ca și în cazul formei de organizare a învățământului cu frecvență.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "aa969c3dacb6aeaa3be6b44b70b22e969842c03bfc53500871882278116c1bdc"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00061",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 61,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "V. DISPOZIȚII FINALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE",
+    "ChunkText": "1. Studenții înmatriculați la ÎD și ÎFR semnează un contract de studii, în care sunt specificate drepturile și obligațiile părților, taxa de studii, precum și modalitatea de acces la resursele educaționale pentru disciplinele din programul respectiv.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE\n\nText:\n1. Studenții înmatriculați la ÎD și ÎFR semnează un contract de studii, în care sunt specificate drepturile și obligațiile părților, taxa de studii, precum și modalitatea de acces la resursele educaționale pentru disciplinele din programul respectiv.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "720146c94733115a1929239de7b8f8ca8362307e772278bff8cf0eaeaaafbeab"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00062",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 62,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "V. DISPOZIȚII FINALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE",
+    "ChunkText": "2. Condițiile și cuantumul taxelor de studii, precum și orice alte taxe speciale, sunt stabilite anual prin hotărârea Consiliului pentru Dezvoltare Strategică Instituțională al USM.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE\n\nText:\n2. Condițiile și cuantumul taxelor de studii, precum și orice alte taxe speciale, sunt stabilite anual prin hotărârea Consiliului pentru Dezvoltare Strategică Instituțională al USM.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "e1f43e94e113c4ca74f6bf665d07db922ccd2825ef49ad1f61c21fdcbf504df3"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00063",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 63,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "V. DISPOZIȚII FINALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE",
+    "ChunkText": "3. Forma de evaluare pentru finalizarea programului de studii se stabilește de către Senatul USM. Evaluările finale (examenele) și susținerea publică a tezelor de licență/ master pentru ÎD și ÎFR se organizează în aceleași condiții ca și în cazul formei de organizare a învățământului cu frecvență, cu prezența fizică a studenților.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE\n\nText:\n3. Forma de evaluare pentru finalizarea programului de studii se stabilește de către Senatul USM. Evaluările finale (examenele) și susținerea publică a tezelor de licență/ master pentru ÎD și ÎFR se organizează în aceleași condiții ca și în cazul formei de organizare a învățământului cu frecvență, cu prezența fizică a studenților.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "dd29d4f214b0dc7ce72eade2b567e9a801befe1577e9066332477a5c4a261bba"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00064",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 64,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "V. DISPOZIȚII FINALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE",
+    "ChunkText": "4. Absolvenților care au finalizat programul de studii la ÎD sau ÎFR și au acumulat integral numărul de credite ECTS prevăzut în planul de învățământ le sunt eliberate diplome de studii, însoțite de suplimente la diplome, în limbile română și engleză. Diplomele de studii universitare eliberate de USM, conform legislației, sunt echivalente pentru toate formele de organizare a învățământului.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE\n\nText:\n4. Absolvenților care au finalizat programul de studii la ÎD sau ÎFR și au acumulat integral numărul de credite ECTS prevăzut în planul de învățământ le sunt eliberate diplome de studii, însoțite de suplimente la diplome, în limbile română și engleză. Diplomele de studii universitare eliberate de USM, conform legislației, sunt echivalente pentru toate formele de organizare a învățământului.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "e42119303c520564e7d4a61bdae1b56d6456f22c98da9030f50c24cfa48ba34f"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00065",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 65,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "V. DISPOZIȚII FINALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE",
+    "ChunkText": "5. Prezentul Regulament intră în vigoare de la data aprobării acestuia de către Senatul USM.",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE\n\nText:\n5. Prezentul Regulament intră în vigoare de la data aprobării acestuia de către Senatul USM.",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "ceb996103d935cef43659dbe8e534f1e1eaf3163190f71ce410e1c0bfaafbb8c"
+  },
+  {
+    "Id": "regulament-id_ifr_usm_chunk_00066",
+    "DocumentId": "regulament-id_ifr_usm",
+    "DocumentTitle": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+    "ChunkIndex": 66,
+    "Headings": [
+      "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER",
+      "V. DISPOZIȚII FINALE"
+    ],
+    "HeadingPath": "REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE",
+    "ChunkText": "6. Se abrogă *Regulamentul privind organizarea și desfășurarea învățământului la distanță în cadrul Universității de Stat din Moldova* (aprobat prin Decizia Senatului proces-verbal Nr.4 din 25.10.2022).",
+    "EmbeddingText": "Document: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER\nPath: REGULAMENTUL INSTITUȚIONAL PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ÎNVĂȚĂMÂNTULUI LA DISTANȚĂ ȘI CU FRECVENȚĂ REDUSĂ ÎN CADRUL STUDIILOR SUPERIOARE DE LICENȚĂ ȘI DE MASTER > V. DISPOZIȚII FINALE\n\nText:\n6. Se abrogă *Regulamentul privind organizarea și desfășurarea învățământului la distanță în cadrul Universității de Stat din Moldova* (aprobat prin Decizia Senatului proces-verbal Nr.4 din 25.10.2022).",
+    "Language": "ro",
+    "Version": null,
+    "ValidFrom": null,
+    "SourceFile": "Regulament-ID_IFR_USM.md",
+    "Hash": "7f64955ddb9ca6776702b007344448fd03b6e906a0a32d55ce5bf4e64dc6c031"
+  }
+]

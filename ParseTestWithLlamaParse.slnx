@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path=".env" />
+  </Folder>
+  <Project Path="AiChatExpirement/AiChatExpirement.csproj" />
+  <Project Path="LlamaParserV2/LlamaParserV2.csproj" Id="dd28361b-5bc1-4fc4-a218-60daf1bb324a" />
+  <Project Path="QdrantLoad/QdrantLoad.csproj" Id="a00f2c45-8459-4902-9bbd-660b4c8c1bd3" />
+</Solution>

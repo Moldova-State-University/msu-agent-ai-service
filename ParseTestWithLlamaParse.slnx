@@ -6,4 +6,5 @@
   <Project Path="USMAgent.Application/USMAgent.Application.csproj" Id="0850cb86-bec3-41f9-a3d6-257b0682650c" />
   <Project Path="USMAgent.Infrastructure.AI/USMAgent.Infrastructure.AI.csproj" Id="bd9222b5-33c0-438b-a1e4-5a38ea3868e9" />
   <Project Path="USMAgent.Infrastructure.Qdrant/USMAgent.Infrastructure.Qdrant.csproj" Id="4cd95c71-60b6-4c32-bfb6-06d75e966f20" />
+  <Project Path="USMAgent.Infrastructure/USMAgent.Infrastructure.csproj" Id="e3e17d7f-eb3c-4828-8811-6cbd516d8537" />
 </Solution>

@@ -1,10 +1,10 @@
 // NEW FILE
 using System.Security.Cryptography;
 
-namespace LlamaParserV2.Sevices.FileHelper;
+namespace USMAgent.Infrastructure.FileSystem;
 
 // Contains helper method to compute a file hash.
-public static class FileHashHelper
+public static class Sha256FileHashService
 {
     // Computes the SHA-256 hash of a file and returns it as a string.
     public static async Task<string> ComputeSha256Async(string filePath)

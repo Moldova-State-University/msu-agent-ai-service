@@ -1,5 +1,5 @@
 // NEW FILE
-namespace QdrantLoad.Helpers.FileHelper;
+namespace USMAgent.Application.Models;
 
 // Stores data about a PDF file that has already been processed.
 public sealed class ProcessedFileRecord

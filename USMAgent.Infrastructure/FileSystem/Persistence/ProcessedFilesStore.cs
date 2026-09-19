@@ -1,10 +1,12 @@
 // NEW FILE
 using System.Text.Json;
+using USMAgent.Application;
+using USMAgent.Application.Models;
 
-namespace QdrantLoad.Helpers.FileHelper;
+namespace USMAgent.Infrastructure.FileSystem.Persistence;
 
 // Reads and saves the processed files cache to a JSON file.
-public sealed class ProcessedFilesStore
+public sealed class ProcessedFilesStore : IProcessedFilesStore
 {
     // JSON settings to keep the file human-readable.
     private static readonly JsonSerializerOptions JsonOptions = new()

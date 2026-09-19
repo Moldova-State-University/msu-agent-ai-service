@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.Http.Headers;
-using System.Text;
+﻿using System.Net.Http.Headers;
 
-namespace QdrantLoad.Helpers;
+namespace USMAgent.Infrastructure.AI.Ollama;
 
 public static class OllamaHelper
 {

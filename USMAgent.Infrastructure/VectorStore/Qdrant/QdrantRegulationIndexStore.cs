@@ -1,12 +1,13 @@
 ﻿using Microsoft.Extensions.Options;
 using Qdrant.Client;
 using Qdrant.Client.Grpc;
+using USMAgent.Application.Abstractions;
 using USMAgent.Application.Regulations;
 using USMAgent.Infrastructure.VectorStore.Qdrant;
 
-namespace USMAgent.Infrastructure.VectorStore;
+namespace USMAgent.Infrastructure.VectorStore.Qdrant;
 
-public sealed class QdrantRegulationIndexStore
+public sealed class QdrantRegulationIndexStore : IRegulationIndexStore
 {
     private readonly QdrantClient _qdrant;
     private readonly QdrantOptions _options;

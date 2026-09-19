@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json;
 
 
-namespace AiChatExpirement.Services;
+namespace USMAgent.Infrastructure.AI.Ollama.Tools;
 
 public static class ToolError
 {

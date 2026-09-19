@@ -1,9 +1,10 @@
 ﻿using System.Text.Encodings.Web;
 using System.Text.Json;
-using USMAgent.Application;
+using USMAgent.Application.Abstractions;
+using USMAgent.Application.Models;
 
-namespace USMAgent.Infrastructure.FileSystem;
- public class JsonRegulationChunkStore : IRegulationChunkScore
+namespace USMAgent.Infrastructure.FileSystem.Json;
+ public class JsonRegulationChunkStore : IRegulationChunkStore
 {
     public async Task WriteAsync(string outputPath, IReadOnlyCollection<RegulationChunk> chunks)
     {
@@ -18,7 +19,7 @@ namespace USMAgent.Infrastructure.FileSystem;
         await File.WriteAllTextAsync(outputPath, json);
     }
 
-    public async Task<List<RegulationChunk>> ReadAsync(string inputPath)
+    public async Task<List<RegulationChunk>> ReadAsync(string inputPath, CancellationToken cancellationToken = default)
     {
         await using var stream = File.OpenRead(inputPath);
 
@@ -26,7 +27,7 @@ namespace USMAgent.Infrastructure.FileSystem;
             new JsonSerializerOptions
             {
                 PropertyNameCaseInsensitive = true
-            });
+            }, cancellationToken);
 
         return chunks ?? [];
     }

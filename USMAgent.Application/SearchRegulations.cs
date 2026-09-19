@@ -3,14 +3,14 @@ using USMAgent.Application.Models;
 
 namespace USMAgent.Application;
 
-public sealed class SearchRegulationsUseCase : ISearchRegulations
+public sealed class SearchRegulations : ISearchRegulations
 {
     private const int ResultsLimit = 3;
 
     private readonly ITextEmbeddingGenerator _embeddingGenerator;
     private readonly IRegulationSearchStore _searchStore;
 
-    public SearchRegulationsUseCase(
+    public SearchRegulations(
         ITextEmbeddingGenerator embeddingGenerator,
         IRegulationSearchStore searchStore)
     {

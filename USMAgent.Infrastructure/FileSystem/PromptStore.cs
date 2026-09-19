@@ -1,6 +1,8 @@
-﻿namespace USMAgent.Infrastructure.FileSystem;
+﻿using USMAgent.Application.Abstractions;
 
-public class PromptStore
+namespace USMAgent.Infrastructure.FileSystem;
+
+public class PromptStore : IPromptStore
 {
     public async Task<string> ReadAsync(string relativePath, CancellationToken cancellationToken = default)
     {

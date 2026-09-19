@@ -1,6 +1,6 @@
 ﻿using USMAgent.Application.Models;
 
-namespace USMAgent.Application;
+namespace USMAgent.Application.Abstractions;
 public interface IRegulationSearchStore
 {
     Task<IReadOnlyList<RegulationSearchResult>> SearchAsync(

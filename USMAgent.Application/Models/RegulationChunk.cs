@@ -1,4 +1,5 @@
-﻿public record RegulationChunk
+﻿namespace USMAgent.Application.Models;
+public record RegulationChunk
 {
     public required string Id { get; init; }
     public required string DocumentId { get; init; }

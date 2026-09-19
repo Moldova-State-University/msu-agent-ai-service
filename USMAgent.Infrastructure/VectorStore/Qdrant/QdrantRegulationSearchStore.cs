@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using Qdrant.Client;
-using USMAgent.Application;
+using USMAgent.Application.Abstractions;
 using USMAgent.Application.Models;
 
 namespace USMAgent.Infrastructure.VectorStore.Qdrant;

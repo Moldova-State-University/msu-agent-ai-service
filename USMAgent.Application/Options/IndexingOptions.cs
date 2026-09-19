@@ -1,4 +1,4 @@
-﻿namespace USMAgent.Infrastructure;
+﻿namespace USMAgent.Application.Options;
 
 public class IndexingOptions
 {

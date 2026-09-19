@@ -1,9 +1,9 @@
 // NEW FILE
 using System.Text.Json;
-using USMAgent.Application;
+using USMAgent.Application.Abstractions;
 using USMAgent.Application.Models;
 
-namespace USMAgent.Infrastructure.FileSystem.Persistence;
+namespace USMAgent.Infrastructure.FileSystem.Json;
 
 // Reads and saves the processed files cache to a JSON file.
 public sealed class ProcessedFilesStore : IProcessedFilesStore
@@ -24,7 +24,7 @@ public sealed class ProcessedFilesStore : IProcessedFilesStore
     }
 
     // Loads the list of already processed files.
-    public async Task<List<ProcessedFileRecord>> LoadAsync()
+    public async Task<List<ProcessedFileRecord>> LoadAsync(CancellationToken cancellationToken = default)
     {
         // Create the directory for the cache file if it does not exist.
         EnsureDirectory();
@@ -32,14 +32,14 @@ public sealed class ProcessedFilesStore : IProcessedFilesStore
         // If the cache does not exist yet, create an empty file and return an empty list.
         if (!File.Exists(_filePath))
         {
-            await SaveAsync([]);
+            await SaveAsync([], cancellationToken);
             return [];
         }
 
         try
         {
             // Read JSON from the file.
-            var json = await File.ReadAllTextAsync(_filePath);
+            var json = await File.ReadAllTextAsync(_filePath, cancellationToken);
 
             // If the file is empty, there are no records yet.
             if (string.IsNullOrWhiteSpace(json))
@@ -63,14 +63,14 @@ public sealed class ProcessedFilesStore : IProcessedFilesStore
     }
 
     // Saves the list of processed files to JSON.
-    public async Task SaveAsync(List<ProcessedFileRecord> records)
+    public async Task SaveAsync(IReadOnlyList<ProcessedFileRecord> records, CancellationToken cancellationToken = default)
     {
         // Create the directory for the cache file if it does not exist.
         EnsureDirectory();
         // Serialize the list of records to a JSON string.
         var json = JsonSerializer.Serialize(records, JsonOptions);
         // Write the JSON to the file.
-        await File.WriteAllTextAsync(_filePath, json);
+        await File.WriteAllTextAsync(_filePath, json, cancellationToken);
     }
 
     // Ensures that the directory for the cache file exists.

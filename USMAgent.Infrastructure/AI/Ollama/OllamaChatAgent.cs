@@ -2,7 +2,7 @@
 using OllamaSharp;
 using OllamaSharp.Models;
 using System.Runtime.CompilerServices;
-using USMAgent.Application;
+using USMAgent.Application.Abstractions;
 using USMAgent.Application.Models;
 using USMAgent.Infrastructure.AI.Ollama.Tools;
 using USMAgent.Infrastructure.FileSystem;
@@ -18,12 +18,12 @@ public sealed class OllamaChatAgent : IChatAgent, IDisposable
     ];
 
     private readonly OllamaApiClient _client;
-    private readonly PromptStore _prompts;
+    private readonly IPromptStore _prompts;
     private readonly OllamaOptions _options;
 
     private OllamaSharp.Chat? _chat;
 
-    public OllamaChatAgent(IOptions<OllamaOptions> options, PromptStore prompts)
+    public OllamaChatAgent(IOptions<OllamaOptions> options, IPromptStore prompts)
     {
         _options = options.Value;
         _prompts = prompts;

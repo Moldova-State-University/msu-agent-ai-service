@@ -23,6 +23,7 @@ app.UseExceptionHandler();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwaggerUI(options => options.SwaggerEndpoint("/openapi/v1.json", "USM Agent AI Service"));
 }
 
 app.UseHttpsRedirection();

@@ -4,7 +4,6 @@ using Microsoft.Extensions.Options;
 using Qdrant.Client;
 using USMAgent.Application;
 using USMAgent.Application.Abstractions;
-using USMAgent.Application.Options;
 using USMAgent.Infrastructure.AI.Ollama;
 using USMAgent.Infrastructure.FileSystem;
 using USMAgent.Infrastructure.FileSystem.Json;
@@ -28,8 +27,8 @@ public static class ServiceCollectionExtensions
         });
 
         services.AddSingleton<IPromptStore, PromptStore>();
-        services.AddSingleton<IFileHashService, Sha256FileHashService>();
-        services.AddSingleton<IRegulationChunkStore, JsonRegulationChunkStore>();
+        services.AddSingleton<Sha256FileHashService>();
+        services.AddSingleton<IRegulationChunkSource, JsonRegulationChunkSource>();
 
         services.AddSingleton<IProcessedFilesStore>(sp =>
         {

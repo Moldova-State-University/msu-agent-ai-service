@@ -21,9 +21,9 @@ public sealed class QdrantRegulationSearchStore : IRegulationSearchStore
         int limit,
         CancellationToken cancellationToken = default)
     {
-        var points = await _client.SearchAsync(
+        var points = await _client.QueryAsync(
             collectionName: _options.CollectionName,
-            vector: vector,
+            query: vector,
             limit: (ulong)limit,
             payloadSelector: true,
             cancellationToken: cancellationToken);
@@ -31,11 +31,11 @@ public sealed class QdrantRegulationSearchStore : IRegulationSearchStore
         return points.Select(point => new RegulationSearchResult
         {
             Score = point.Score,
-            DocumentTitle = point.Payload.GetString("document_title"),
-            HeadingPath = point.Payload.GetString("heading_path"),
-            ChunkText = point.Payload.GetString("chunk_text"),
-            SourceFile = point.Payload.GetString("source_file"),
-            Language = point.Payload.GetString("language")
+            DocumentTitle = point.Payload.GetString(QdrantPayloadKeys.DocumentTitle),
+            HeadingPath = point.Payload.GetString(QdrantPayloadKeys.HeadingPath),
+            ChunkText = point.Payload.GetString(QdrantPayloadKeys.ChunkText),
+            SourceFile = point.Payload.GetString(QdrantPayloadKeys.SourceFile),
+            Language = point.Payload.GetString(QdrantPayloadKeys.Language)
         }).ToList();
     }
 }

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using USMAgent.AIService.API.Contracts;
+using USMAgent.AIService.API.Responses;
 using USMAgent.Application.Abstractions;
 
 namespace USMAgent.AIService.API.Controllers;

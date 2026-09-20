@@ -46,16 +46,16 @@ public sealed class QdrantRegulationIndexStore : IRegulationIndexStore
             Vectors = vector
         };
 
-        point.Payload["document_id"] = chunk.DocumentId;
-        point.Payload["document_title"] = chunk.DocumentTitle;
-        point.Payload["chunk_index"] = chunk.ChunkIndex;
-        point.Payload["heading_path"] = chunk.HeadingPath;
-        point.Payload["chunk_text"] = chunk.ChunkText;
-        point.Payload["language"] = chunk.Language;
-        point.Payload["version"] = chunk.Version ?? "";
-        point.Payload["valid_from"] = chunk.ValidFrom ?? "";
-        point.Payload["source_file"] = chunk.SourceFile;
-        point.Payload["hash"] = chunk.Hash;
+        point.Payload[QdrantPayloadKeys.DocumentId] = chunk.DocumentId;
+        point.Payload[QdrantPayloadKeys.DocumentTitle] = chunk.DocumentTitle;
+        point.Payload[QdrantPayloadKeys.ChunkIndex] = chunk.ChunkIndex;
+        point.Payload[QdrantPayloadKeys.HeadingPath] = chunk.HeadingPath;
+        point.Payload[QdrantPayloadKeys.ChunkText] = chunk.ChunkText;
+        point.Payload[QdrantPayloadKeys.Language] = chunk.Language;
+        point.Payload[QdrantPayloadKeys.Version] = chunk.Version ?? "";
+        point.Payload[QdrantPayloadKeys.ValidFrom] = chunk.ValidFrom ?? "";
+        point.Payload[QdrantPayloadKeys.SourceFile] = chunk.SourceFile;
+        point.Payload[QdrantPayloadKeys.Hash] = chunk.Hash;
 
         return point;
     }

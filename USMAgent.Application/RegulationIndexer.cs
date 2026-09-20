@@ -1,8 +1,5 @@
-﻿using Microsoft.Extensions.Options;
-using System.Text.Json;
 using USMAgent.Application.Abstractions;
 using USMAgent.Application.Models;
-using USMAgent.Application.Options;
 
 namespace USMAgent.Application;
 
@@ -13,21 +10,18 @@ public sealed class RegulationIndexer
     private readonly ITextEmbeddingGenerator _embeddings;
     private readonly IRegulationIndexStore _store;
     private readonly IProcessedFilesStore _processedFiles;
-    private readonly IFileHashService _fileHash;
-    private readonly IndexingOptions _options;
+    private readonly IRegulationChunkSource _source;
 
     public RegulationIndexer(
         ITextEmbeddingGenerator embeddings,
         IRegulationIndexStore store,
         IProcessedFilesStore processedFiles,
-        IFileHashService fileHash,
-        IOptions<IndexingOptions> options)
+        IRegulationChunkSource source)
     {
         _embeddings = embeddings;
         _store = store;
         _processedFiles = processedFiles;
-        _fileHash = fileHash;
-        _options = options.Value;
+        _source = source;
     }
 
     public async Task RunAsync(CancellationToken cancellationToken = default)
@@ -35,21 +29,17 @@ public sealed class RegulationIndexer
         var processed = await _processedFiles.LoadAsync(cancellationToken);
 
         await EnsureCollectionAsync(cancellationToken);
-        
-        var chunksRoot = ResolvePath(_options.ChunksPath);
 
-        foreach (var filePath in Directory.EnumerateFiles(chunksRoot, "*.json", SearchOption.AllDirectories))
+        foreach (var document in await _source.ListAsync(cancellationToken))
         {
-            var sha256 = await _fileHash.ComputeSha256Async(filePath, cancellationToken);
-
-            if (processed.Any(x => string.Equals(x.Sha256, sha256, StringComparison.OrdinalIgnoreCase)))
+            if (processed.Any(x => string.Equals(x.Sha256, document.Hash, StringComparison.OrdinalIgnoreCase)))
             {
                 continue;
             }
 
-            await UploadFileAsync(filePath, cancellationToken);
+            await UploadAsync(document, cancellationToken);
 
-            processed.Add(CreateRecord(filePath, sha256));
+            processed.Add(CreateRecord(document));
 
             await _processedFiles.SaveAsync(processed, cancellationToken);
         }
@@ -59,15 +49,13 @@ public sealed class RegulationIndexer
     {
         var probe = await _embeddings.GenerateAsync(VectorSizeProbeText, cancellationToken)
             ?? throw new InvalidOperationException("Failed to determine embedding vector size.");
-        
+
         await _store.EnsureCollectionAsync((uint)probe.Length, cancellationToken);
     }
 
-    private async Task<int> UploadFileAsync(string filePath, CancellationToken cancellationToken)
+    private async Task UploadAsync(RegulationChunkDocument document, CancellationToken cancellationToken)
     {
-        var json = await File.ReadAllTextAsync(filePath, cancellationToken);
-
-        var chunks = JsonSerializer.Deserialize<List<RegulationChunk>>(json) ?? [];
+        var chunks = await _source.ReadAsync(document, cancellationToken);
 
         var items = new List<(RegulationChunk, float[])>(chunks.Count);
 
@@ -76,33 +64,22 @@ public sealed class RegulationIndexer
             var vector = await _embeddings.GenerateAsync(chunk.EmbeddingText, cancellationToken);
 
             if (vector is null || vector.Length == 0)
-                throw new InvalidOperationException($"Failed to embed chunk {chunk.ChunkIndex} of {filePath}.");
+                throw new InvalidOperationException($"Failed to embed chunk {chunk.ChunkIndex} of {document.Name}.");
 
             items.Add((chunk, vector));
         }
 
         await _store.UpsertAsync(items, cancellationToken);
-
-        return items.Count;
     }
 
-    private ProcessedFileRecord CreateRecord(string filePath, string sha256)
+    private static ProcessedFileRecord CreateRecord(RegulationChunkDocument document) => new()
     {
-        var fileInfo = new FileInfo(filePath);
-
-        return new ProcessedFileRecord
-        {
-            FileName = Path.GetFileName(filePath),
-            RelativePath = $"QdrantStorage/{_options.ChunksPath}",
-            Sha256 = sha256,
-            Size = fileInfo.Length,
-            LastWriteTimeUtc = fileInfo.LastWriteTimeUtc,
-            ProcessedAtUtc = DateTime.UtcNow,
-            ProcesedFilename = "qdrantstorage"
-        };
-    }
-
-    private static string ResolvePath(string path) => Path.IsPathRooted(path)
-        ? path
-        : Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, path));
+        FileName = document.Name,
+        RelativePath = document.Id,
+        Sha256 = document.Hash,
+        Size = document.Size,
+        LastWriteTimeUtc = document.LastModifiedUtc,
+        ProcessedAtUtc = DateTime.UtcNow,
+        ProcesedFilename = "qdrantstorage"
+    };
 }

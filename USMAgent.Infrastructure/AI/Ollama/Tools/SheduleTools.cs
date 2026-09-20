@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using OllamaSharp;
-namespace AiChatExpirement.Services;
+namespace USMAgent.Infrastructure.AI.Ollama.Tools;
 
 public static class ScheduleTools
 {

@@ -34,9 +34,6 @@ public sealed class RegulationIndexer
     {
         var processed = await _processedFiles.LoadAsync(cancellationToken);
 
-        if (processed.Count == 0)
-            throw new InvalidOperationException("Processed files state is empty.");
-
         await EnsureCollectionAsync(cancellationToken);
         
         var chunksRoot = ResolvePath(_options.ChunksPath);

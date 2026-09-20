@@ -1,8 +1,8 @@
 ﻿using DotNetEnv;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using USMAgent.Application;
 using USMAgent.Infrastructure;
-using USMAgent.Infrastructure.Indexing;
 
 Env.TraversePath().Load();
 

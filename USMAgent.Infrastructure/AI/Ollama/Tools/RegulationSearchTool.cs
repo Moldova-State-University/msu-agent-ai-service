@@ -1,8 +1,7 @@
-﻿using AiChatExpirement.Services;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using OllamaSharp;
 using System.Text.Json;
-using USMAgent.Application;
+using USMAgent.Application.Abstractions;
 
 namespace USMAgent.Infrastructure.AI.Ollama.Tools;
 
@@ -34,11 +33,11 @@ public static class RegulationSearchTool
             ?? throw new InvalidOperationException(
                 $"{nameof(RegulationSearchTool)} is not initialized. Call Initialize(IServiceProvider) at startup.");
 
-        var search = services.GetRequiredService<RegulationSearchService>();
+        var search = services.GetRequiredService<ISearchRegulations>();
 
         try
         {
-            var results = await search.SearchAsync(query);
+            var results = await search.ExecuteAsync(query);
 
             return JsonSerializer.Serialize(results, JsonOptions);
         }

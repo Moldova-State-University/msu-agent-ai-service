@@ -6,6 +6,7 @@ using USMAgent.Application.Abstractions;
 using USMAgent.Application.Models;
 using USMAgent.Infrastructure.AI.Ollama.Tools;
 using USMAgent.Infrastructure.FileSystem;
+using ModelInfo = USMAgent.Application.Models.ModelInfo;
 
 namespace USMAgent.Infrastructure.AI.Ollama;
 

@@ -1,14 +1,13 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection;
 using OllamaSharp;
-using System.Text.Json;
 using USMAgent.Application.Abstractions;
+using USMAgent.Application.Models;
+using USMAgent.Domain;
 
 namespace USMAgent.Infrastructure.AI.Ollama.Tools;
 
 public static class RegulationSearchTool
 {
-    private static readonly JsonSerializerOptions JsonOptions = new() { WriteIndented = true };
-
     private static IServiceProvider? _services;
 
     public static void Initialize(IServiceProvider services) => _services = services;
@@ -35,19 +34,8 @@ public static class RegulationSearchTool
 
         var search = services.GetRequiredService<ISearchRegulations>();
 
-        try
-        {
-            var results = await search.ExecuteAsync(query);
+        var result = await search.ExecuteAsync(query);
 
-            return JsonSerializer.Serialize(results, JsonOptions);
-        }
-        catch (ArgumentException ex)
-        {
-            return ToolError.InvalidArguments(ex.Message);
-        }
-        catch (InvalidOperationException ex)
-        {
-            return ToolError.SourceUnavailable(ex.Message);
-        }
+        return ToolJson.Serialize(result);
     }
 }

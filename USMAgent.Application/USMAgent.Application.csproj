@@ -10,4 +10,8 @@
     <PackageReference Include="Microsoft.Extensions.Options" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\USMAgent.Domain\USMAgent.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

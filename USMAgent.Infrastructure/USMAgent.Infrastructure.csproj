@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\USMAgent.Application\USMAgent.Application.csproj" />
+    <ProjectReference Include="..\USMAgent.Domain\USMAgent.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

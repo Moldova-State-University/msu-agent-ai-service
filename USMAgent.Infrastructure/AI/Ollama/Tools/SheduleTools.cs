@@ -1,7 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using OllamaSharp;
+using USMAgent.Domain;
+using USMAgent.Domain.Enums;
+
 namespace USMAgent.Infrastructure.AI.Ollama.Tools;
 
 public static class ScheduleTools
@@ -17,7 +17,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetGroupSchedule(string group, string date = "", string dayOfWeek = "", string weekParity = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -31,7 +31,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetTeacherSchedule(string teacherSurname, string teacherName = "", string date = "", string dayOfWeek = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -43,7 +43,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetSubjectSchedule(string group, string subjectName, string subjectType = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -55,7 +55,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetCurrentLesson(string group, string currentDateTime)
     {
-        return ToolError.InvalidArguments("Wrong agruments");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agruments"));
     }
 
     /// <summary>
@@ -68,7 +68,7 @@ public static class ScheduleTools
     public static string GetNextLesson(string group, string currentDateTime)
     {
         //тут код который ищет в базе данных следующий урок
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -82,7 +82,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetClassroomForLesson(string group, string subjectName, string date = "", string dayOfWeek = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -94,7 +94,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetTeacherForSubject(string group, string subjectName, string subjectType = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -106,7 +106,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetGroupsByTeacher(string teacherSurname, string teacherName = "", string subjectName = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -120,7 +120,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetLessonsByClassroom(string classroom, string block = "", string date = "", string lessonStart = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 
     /// <summary>
@@ -134,7 +134,7 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetFreeClassrooms(string date, string lessonStart, string lessonEnd, string block = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
     /// <summary>
     /// Get classrooms that are free right now.
@@ -146,6 +146,6 @@ public static class ScheduleTools
     [OllamaTool]
     public static string GetCurrentFreeClassrooms(string date, string timeNow, string block = "")
     {
-        return ToolError.InvalidArguments("Wrong agrument");
+        return ToolJson.Serialize(Response.Fail(ErrorCode.InvalidArguments, "Wrong agrument"));
     }
 }

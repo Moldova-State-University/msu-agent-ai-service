@@ -1,9 +1,8 @@
 <Solution>
-  <Project Path="AiChatExpirement/AiChatExpirement.csproj" />
-  <Project Path="QdrantLoad/QdrantLoad.csproj" Id="a00f2c45-8459-4902-9bbd-660b4c8c1bd3" />
-  <Project Path="USMAgent.AIService.API/USMAgent.AIService.API.csproj" Id="5661f2fd-74bb-4994-8b02-e758b98fbfac" />
-  <Project Path="USMAgent.AIService.Hosting.Aspire/USMAgent.AIService.Hosting.Aspire.csproj" Id="2de68c38-3b5c-4d6f-bc04-5a7769cf9895" />
-  <Project Path="USMAgent.Application/USMAgent.Application.csproj" Id="0850cb86-bec3-41f9-a3d6-257b0682650c" />
-  <Project Path="USMAgent.Infrastructure.AI/USMAgent.Infrastructure.AI.csproj" Id="bd9222b5-33c0-438b-a1e4-5a38ea3868e9" />
-  <Project Path="USMAgent.Infrastructure.Qdrant/USMAgent.Infrastructure.Qdrant.csproj" Id="4cd95c71-60b6-4c32-bfb6-06d75e966f20" />
+  <Project Path="QdrantLoad/QdrantLoad.csproj" />
+  <Project Path="USMAgent.AIService.API/USMAgent.AIService.API.csproj" />
+  <Project Path="USMAgent.AIService.Hosting.Aspire/USMAgent.AIService.Hosting.Aspire.csproj" />
+  <Project Path="USMAgent.Application/USMAgent.Application.csproj" />
+  <Project Path="USMAgent.Domain\USMAgent.Domain.csproj" Type="Classic C#" />
+  <Project Path="USMAgent.Infrastructure/USMAgent.Infrastructure.csproj" />
 </Solution>

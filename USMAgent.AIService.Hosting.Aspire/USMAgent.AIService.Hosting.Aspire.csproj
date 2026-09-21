@@ -10,8 +10,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aspire.Hosting.Qdrant" Version="13.5.4" />
-    <PackageReference Include="CommunityToolkit.Aspire.Hosting.Ollama" Version="13.5.0" />
+    <PackageReference Include="Aspire.Hosting.Qdrant" />
+    <PackageReference Include="CommunityToolkit.Aspire.Hosting.Ollama" />
   </ItemGroup>
 
   <ItemGroup>

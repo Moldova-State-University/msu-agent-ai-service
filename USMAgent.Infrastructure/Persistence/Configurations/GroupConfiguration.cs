@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using USMAgent.Domain.Entities;
 
 namespace USMAgent.Infrastructure.Persistence.Configurations;
 public class GroupConfiguration : IEntityTypeConfiguration<Group>

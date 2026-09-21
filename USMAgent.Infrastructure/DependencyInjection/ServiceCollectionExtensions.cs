@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
@@ -7,6 +8,7 @@ using USMAgent.Application.Abstractions;
 using USMAgent.Infrastructure.AI.Ollama;
 using USMAgent.Infrastructure.FileSystem;
 using USMAgent.Infrastructure.FileSystem.Json;
+using USMAgent.Infrastructure.Persistence;
 using USMAgent.Infrastructure.VectorStore.Qdrant;
 
 namespace USMAgent.Infrastructure;
@@ -45,6 +47,15 @@ public static class ServiceCollectionExtensions
 
         services.AddSingleton<ISearchRegulations, SearchRegulations>();
         services.AddSingleton<RegulationIndexer>();
+
+        var connectionString = configuration.GetConnectionString("Database")
+            ?? throw new InvalidOperationException(
+                "Connection string was not found.");
+        
+        services.AddDbContext<ApplicationDbContext>(options =>
+        {
+            options.UseNpgsql(connectionString);
+        });
 
         return services;
     }

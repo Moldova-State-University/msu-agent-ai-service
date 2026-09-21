@@ -8,6 +8,5 @@ public class TimeSlot
     public TimeOnly StartTime { get; set; }
     public TimeOnly EndTime { get; set; }
 
-    public ICollection<ScheduleEntry> ScheduleEntries { get; set; }
-        = new List<ScheduleEntry>();
+    public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

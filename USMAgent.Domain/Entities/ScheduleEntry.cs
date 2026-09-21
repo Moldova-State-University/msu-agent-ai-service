@@ -31,9 +31,7 @@ public class ScheduleEntry
 
     public Room? Room { get; set; }
 
-    public ICollection<ScheduleEntryTeacher> ScheduleEntryTeachers { get; set; }
-        = new List<ScheduleEntryTeacher>();
+    public ICollection<Teacher> Teachers { get; set; } = [];
 
-    public ICollection<ScheduleEntryGroup> ScheduleEntryGroups { get; set; }
-        = new List<ScheduleEntryGroup>();
+    public ICollection<Group> Groups { get; set; } = [];
 }

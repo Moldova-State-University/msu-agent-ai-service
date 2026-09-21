@@ -7,6 +7,5 @@ public class AcademicPeriod
     public DateOnly StartDate { get; set; }
     public DateOnly EndDate { get; set; }
 
-    public ICollection<ScheduleEntry> ScheduleEntries { get; set; }
-        = new List<ScheduleEntry>();
+    public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

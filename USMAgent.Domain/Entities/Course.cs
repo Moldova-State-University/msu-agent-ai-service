@@ -5,9 +5,7 @@ public class Course
 
     public string Name { get; set; } = null!;
 
-    public ICollection<CourseAlias> Aliases { get; set; }
-        = new List<CourseAlias>();
+    public ICollection<CourseAlias> Aliases { get; set; } = [];
 
-    public ICollection<ScheduleEntry> ScheduleEntries { get; set; }
-        = new List<ScheduleEntry>();
+    public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

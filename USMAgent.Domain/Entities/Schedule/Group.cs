@@ -1,11 +1,10 @@
-﻿namespace USMAgent.Domain.Entities;
-public class Course
+﻿namespace USMAgent.Domain.Entities.Schedule;
+public class Group
 {
     public int Id { get; set; }
 
     public string Name { get; set; } = null!;
-
-    public ICollection<CourseAlias> Aliases { get; set; } = [];
+    public string? Language { get; set; }
 
     public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

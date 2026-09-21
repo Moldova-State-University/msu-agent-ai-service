@@ -1,4 +1,4 @@
-﻿namespace USMAgent.Domain.Entities;
+﻿namespace USMAgent.Domain.Entities.Schedule;
 
 public class AcademicPeriod
 {

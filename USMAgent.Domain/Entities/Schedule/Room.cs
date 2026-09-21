@@ -1,10 +1,9 @@
-﻿namespace USMAgent.Domain.Entities;
-public class Group
+﻿namespace USMAgent.Domain.Entities.Schedule;
+public class Room
 {
     public int Id { get; set; }
 
     public string Name { get; set; } = null!;
-    public string? Language { get; set; }
 
     public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

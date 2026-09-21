@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using USMAgent.Domain.Entities;
+using USMAgent.Domain.Entities.Schedule;
 
 namespace USMAgent.Infrastructure.Persistence.Configurations;
 public class GroupConfiguration : IEntityTypeConfiguration<Group>

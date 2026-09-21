@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="QdrantLoad/QdrantLoad.csproj" />
+  <Project Path="USMAgent.AIService.API/USMAgent.AIService.API.csproj" />
+  <Project Path="USMAgent.AIService.Hosting.Aspire/USMAgent.AIService.Hosting.Aspire.csproj" />
+  <Project Path="USMAgent.Application/USMAgent.Application.csproj" />
+  <Project Path="USMAgent.Domain\USMAgent.Domain.csproj" />
+  <Project Path="USMAgent.Infrastructure/USMAgent.Infrastructure.csproj" />
+</Solution>

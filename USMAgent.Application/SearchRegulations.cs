@@ -7,15 +7,19 @@ namespace USMAgent.Application;
 
 public sealed class SearchRegulations : ISearchRegulations
 {
-    private const int ResultsLimit = 3;
+    //private const int ResultsLimit = 3;
+    private const int ResultsLimit = 5; //only for test
 
+    private readonly IQueryPreprocessor _queryPreprocessor;
     private readonly ITextEmbeddingGenerator _embeddingGenerator;
     private readonly IRegulationSearchStore _searchStore;
 
     public SearchRegulations(
+        IQueryPreprocessor queryPreprocessor,
         ITextEmbeddingGenerator embeddingGenerator,
         IRegulationSearchStore searchStore)
     {
+        _queryPreprocessor = queryPreprocessor;
         _embeddingGenerator = embeddingGenerator;
         _searchStore = searchStore;
     }
@@ -30,7 +34,12 @@ public sealed class SearchRegulations : ISearchRegulations
                 ErrorCode.InvalidArguments, "Query must not be empty.");
         }
 
-        var vector = await _embeddingGenerator.GenerateAsync(query, cancellationToken);
+        var prepared = await _queryPreprocessor.PrepareAsync(query, cancellationToken);
+
+        // Minimal version: search by the Romanian translation when there is one, otherwise by the original text.
+        var searchText = prepared.RomanianQueries.FirstOrDefault() ?? prepared.Original;
+
+        var vector = await _embeddingGenerator.GenerateAsync(searchText, cancellationToken);
 
         if (vector is null || vector.Length == 0)
         {

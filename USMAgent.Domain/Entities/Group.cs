@@ -6,6 +6,5 @@ public class Group
     public string Name { get; set; } = null!;
     public string? Language { get; set; }
 
-    public ICollection<ScheduleEntryGroup> ScheduleEntryGroups { get; set; }
-        = new List<ScheduleEntryGroup>();
+    public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

@@ -7,6 +7,5 @@ public class Teacher
     public string? LastName { get; set; }
     public string? ShortName { get; set; }
 
-    public ICollection<ScheduleEntryTeacher> ScheduleEntryTeachers { get; set; }
-        = new List<ScheduleEntryTeacher>();
+    public ICollection<ScheduleEntry> ScheduleEntries { get; set; } = [];
 }

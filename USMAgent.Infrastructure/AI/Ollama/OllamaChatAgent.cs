@@ -15,8 +15,27 @@ public sealed class OllamaChatAgent : IChatAgent, IDisposable
     private static readonly object[] AgentTools =
     [
         new SearchRegulationsTool(),
-        new GetCurrentLessonTool()
+        new GetGroupScheduleTool(),
+        new GetTeacherScheduleTool(),
+        new GetSubjectScheduleTool(),
+        new GetCurrentLessonTool(),
+        new GetNextLessonTool(),
+        new GetClassroomForLessonTool(),
+        new GetTeacherForSubjectTool(),
+        new GetGroupsByTeacherTool(),
+        new GetLessonsByClassroomTool(),
+        new GetFreeClassroomsTool(),
+        new GetCurrentFreeClassroomsTool()
     ];
+
+    // Часовой пояс Кишинёва -- нужен, чтобы "сегодня"/"сейчас" в контексте чата
+    // совпадали с реальным временем университета, а не с UTC сервера.
+    private static readonly TimeZoneInfo ChisinauTimeZone =
+        TimeZoneInfo.FindSystemTimeZoneById("Europe/Chisinau");
+
+    // Индекс 0 = понедельник (ISO, 1-7), чтобы совпадать с ScheduleParsing.ToIsoDayOfWeek.
+    private static readonly string[] DayNamesRu =
+        ["понедельник", "вторник", "среда", "четверг", "пятница", "суббота", "воскресенье"];
 
     private readonly OllamaApiClient _client;
     private readonly IPromptStore _prompts;
@@ -39,7 +58,12 @@ public sealed class OllamaChatAgent : IChatAgent, IDisposable
     {
         var chat = await EnsureChatAsync(cancellationToken);
 
-        await foreach (var token in chat.SendAsync(question, AgentTools, cancellationToken: cancellationToken))
+        // Дата/время вычисляются заново на каждый запрос и не хранятся в system prompt:
+        // system prompt читается один раз при создании _chat (singleton) и живёт до
+        // перезапуска процесса, поэтому статичная дата в нём мгновенно устарела бы.
+        var contextualQuestion = WithCurrentDateContext(question);
+
+        await foreach (var token in chat.SendAsync(contextualQuestion, AgentTools, cancellationToken: cancellationToken))
         {
             yield return token;
         }
@@ -75,6 +99,23 @@ public sealed class OllamaChatAgent : IChatAgent, IDisposable
                 NumCtx = _options.NumCtx
             }
         };
+    }
+
+    /// <summary>
+    /// Добавляет перед вопросом строку с текущей датой/временем/днём недели по Кишинёву.
+    /// Модель использует её, чтобы разрешать "сегодня"/"завтра"/"сейчас" и подставлять
+    /// конкретную дату в тулы расписания -- чётность недели тулы считают сами от даты
+    /// (см. ScheduleParsing.IsOddWeek), модели её вычислять не нужно.
+    /// </summary>
+    private static string WithCurrentDateContext(string question)
+    {
+        var now = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, ChisinauTimeZone);
+        var isoDayOfWeek = now.DayOfWeek == DayOfWeek.Sunday ? 7 : (int)now.DayOfWeek;
+
+        var context =
+            $"[current_date: {now:dd:MM:yyyy}, current_time: {now:HH:mm}, day_of_week: {DayNamesRu[isoDayOfWeek - 1]}]";
+
+        return $"{context}\n{question}";
     }
 
     public void Dispose() => _client.Dispose();

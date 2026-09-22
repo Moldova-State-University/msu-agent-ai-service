@@ -28,7 +28,6 @@ public static class RegulationSearchTool
     [OllamaTool]
     public static async Task<string> SearchRegulations(string query)
     {
-        //Console.WriteLine($"[TOOL] SearchRegulations query = \"{query}\""); only for test
         var services = _services
             ?? throw new InvalidOperationException(
                 $"{nameof(RegulationSearchTool)} is not initialized. Call Initialize(IServiceProvider) at startup.");
@@ -36,9 +35,6 @@ public static class RegulationSearchTool
         var search = services.GetRequiredService<ISearchRegulations>();
 
         var result = await search.ExecuteAsync(query);
-
-        //Console.WriteLine($"Chunk texts: {result.Data?.FirstOrDefault()?.ChunkText}"); only for test
-        //Console.WriteLine($"[TOOL] results = {result.Data?.Count}, top score = {result.Data?.FirstOrDefault()?.Score}"); only for test
         return ToolJson.Serialize(result);
     }
 }

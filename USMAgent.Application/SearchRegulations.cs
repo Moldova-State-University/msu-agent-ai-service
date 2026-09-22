@@ -7,8 +7,7 @@ namespace USMAgent.Application;
 
 public sealed class SearchRegulations : ISearchRegulations
 {
-    //private const int ResultsLimit = 3;
-    private const int ResultsLimit = 5; //for test
+    private const int ResultsLimit = 5;
 
     private readonly IQueryPreprocessor _queryPreprocessor;
     private readonly ITextEmbeddingGenerator _embeddingGenerator;

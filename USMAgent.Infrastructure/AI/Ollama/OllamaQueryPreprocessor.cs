@@ -112,13 +112,4 @@ public sealed class OllamaQueryPreprocessor : IQueryPreprocessor, IDisposable
     };
 
     public void Dispose() => _client.Dispose();
-
-    private sealed class TranslationResult
-    {
-        [JsonPropertyName("language")]
-        public string? Language { get; set; }
-
-        [JsonPropertyName("query_ro")]
-        public string? QueryRo { get; set; }
-    }
 }

@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using USMAgent.Domain.Entities;
+using USMAgent.Domain.Entities.Schedule;
 
 namespace USMAgent.Infrastructure.Persistence.Configurations;
-public sealed class TeacherConfiguration : IEntityTypeConfiguration<Teacher>
+public class TeacherConfiguration : IEntityTypeConfiguration<Teacher>
 {
     public void Configure(EntityTypeBuilder<Teacher> builder)
     {

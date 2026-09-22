@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using USMAgent.Domain.Entities;
+using USMAgent.Domain.Entities.Schedule;
 
 namespace USMAgent.Infrastructure.Persistence
 {

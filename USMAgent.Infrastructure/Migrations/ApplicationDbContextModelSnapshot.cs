@@ -34,7 +34,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasIndex("ScheduleEntriesId");
 
-                    b.ToTable("GroupScheduleEntry");
+                    b.ToTable("GroupScheduleEntry", (string)null);
                 });
 
             modelBuilder.Entity("ScheduleEntryTeacher", b =>
@@ -49,7 +49,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasIndex("TeachersId");
 
-                    b.ToTable("ScheduleEntryTeacher");
+                    b.ToTable("ScheduleEntryTeacher", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.AcademicPeriod", b =>
@@ -68,7 +68,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AcademicPeriods");
+                    b.ToTable("AcademicPeriods", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Course", b =>
@@ -86,7 +86,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Courses");
+                    b.ToTable("Courses", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.CourseAlias", b =>
@@ -111,7 +111,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasIndex("CourseId");
 
-                    b.ToTable("CourseAliases");
+                    b.ToTable("CourseAliases", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Group", b =>
@@ -137,7 +137,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.HasIndex("Name")
                         .IsUnique();
 
-                    b.ToTable("Groups");
+                    b.ToTable("Groups", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Room", b =>
@@ -155,7 +155,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Rooms");
+                    b.ToTable("Rooms", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.ScheduleEntry", b =>
@@ -212,7 +212,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasIndex("AcademicPeriodId", "DayOfWeek", "TimeSlotId");
 
-                    b.ToTable("ScheduleEntries");
+                    b.ToTable("ScheduleEntries", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Teacher", b =>
@@ -242,7 +242,7 @@ namespace USMAgent.Infrastructure.Migrations
 
                     b.HasIndex("LastName");
 
-                    b.ToTable("Teachers");
+                    b.ToTable("Teachers", (string)null);
                 });
 
             modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.TimeSlot", b =>
@@ -267,7 +267,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.HasIndex("SlotNumber")
                         .IsUnique();
 
-                    b.ToTable("TimeSlots");
+                    b.ToTable("TimeSlots", (string)null);
                 });
 
             modelBuilder.Entity("GroupScheduleEntry", b =>

@@ -9,6 +9,7 @@ public class TimeSlotConfiguration : IEntityTypeConfiguration<TimeSlot>
     public void Configure(EntityTypeBuilder<TimeSlot> builder)
     {
         builder.HasKey(s => s.Id);
+        builder.Property(p => p.Id).ValueGeneratedOnAdd();
         builder.HasIndex(s => s.SlotNumber).IsUnique();
     }
 }

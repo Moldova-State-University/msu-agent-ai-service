@@ -9,6 +9,9 @@ public class CourseConfiguration : IEntityTypeConfiguration<Course>
     public void Configure(EntityTypeBuilder<Course> builder)
     {
         builder.HasKey(c => c.Id);
+
+        builder.Property(p => p.Id).ValueGeneratedOnAdd();
+
         builder.Property(c => c.Name).HasMaxLength(256).IsRequired();
     }
 }

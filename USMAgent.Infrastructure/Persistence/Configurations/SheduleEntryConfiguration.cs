@@ -9,31 +9,35 @@ public class ScheduleEntryConfiguration : IEntityTypeConfiguration<ScheduleEntry
     public void Configure(EntityTypeBuilder<ScheduleEntry> builder)
     {
         builder.HasKey(e => e.Id);
+        builder.Property(p => p.Id).ValueGeneratedOnAdd();
 
-        builder.Property(e => e.Parity).HasMaxLength(16);
-        builder.Property(e => e.LessonType).HasMaxLength(32).IsRequired();
+        builder.Property(e => e.Parity).HasConversion<string>().HasMaxLength(16);
+        builder.Property(e => e.LessonType).HasConversion<string>().HasMaxLength(32).IsRequired();
         builder.Property(e => e.Subgroup).HasMaxLength(16);
         builder.Property(e => e.Specialization).HasMaxLength(128);
         builder.Property(e => e.Alternative).HasMaxLength(128);
 
         builder.HasOne(e => e.AcademicPeriod)
             .WithMany(p => p.ScheduleEntries)
-            .HasForeignKey(e => e.AcademicPeriodId)
+            .HasForeignKey("AcademicPeriodId")
+            .IsRequired()
             .OnDelete(DeleteBehavior.Restrict);
 
         builder.HasOne(e => e.TimeSlot)
             .WithMany(t => t.ScheduleEntries)
-            .HasForeignKey(e => e.TimeSlotId)
+            .HasForeignKey("TimeSlotId")
+            .IsRequired()
             .OnDelete(DeleteBehavior.Restrict);
 
         builder.HasOne(e => e.Course)
             .WithMany(c => c.ScheduleEntries)
-            .HasForeignKey(e => e.CourseId)
+            .HasForeignKey("CourseId")
+            .IsRequired()
             .OnDelete(DeleteBehavior.Restrict);
 
         builder.HasOne(e => e.Room)
             .WithMany(r => r.ScheduleEntries)
-            .HasForeignKey(e => e.RoomId)
+            .HasForeignKey("RoomId")
             .OnDelete(DeleteBehavior.SetNull);
 
         builder.HasMany(e => e.Teachers)
@@ -42,6 +46,6 @@ public class ScheduleEntryConfiguration : IEntityTypeConfiguration<ScheduleEntry
         builder.HasMany(e => e.Groups)
             .WithMany(g => g.ScheduleEntries);
 
-            builder.HasIndex(e => new { e.AcademicPeriodId, e.DayOfWeek, e.TimeSlotId });
+        builder.HasIndex("AcademicPeriodId", nameof(ScheduleEntry.DayOfWeek), "TimeSlotId");
     }
 }

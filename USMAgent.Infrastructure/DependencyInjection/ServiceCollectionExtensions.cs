@@ -8,7 +8,6 @@ using USMAgent.Infrastructure.AI.Ollama;
 using USMAgent.Infrastructure.DependencyInjection;
 using USMAgent.Infrastructure.FileSystem;
 using USMAgent.Infrastructure.FileSystem.Json;
-using USMAgent.Infrastructure.Persistence;
 using USMAgent.Infrastructure.Schedule;
 using USMAgent.Infrastructure.VectorStore.Qdrant;
 
@@ -52,15 +51,6 @@ public static class ServiceCollectionExtensions
         services.AddSingleton<RegulationIndexer>();
 
         services.AddSingleton<IScheduleQueryService, ScheduleQueryService>();
-
-        var connectionString = configuration.GetConnectionString("Database")
-            ?? throw new InvalidOperationException(
-                "Connection string was not found.");
-        
-        services.AddDbContextFactory<ApplicationDbContext>(options =>
-        {
-            options.UseNpgsql(connectionString);
-        });
 
         return services;
     }

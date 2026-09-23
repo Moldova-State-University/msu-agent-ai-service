@@ -17,9 +17,6 @@ namespace USMAgent.Infrastructure.Schedule;
 /// </summary>
 public sealed class ScheduleQueryService : IScheduleQueryService
 {
-    private static readonly string[] IsoDayNames =
-        ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
-
     private readonly IDbContextFactory<ApplicationDbContext> _contextFactory;
 
     public ScheduleQueryService(IDbContextFactory<ApplicationDbContext> contextFactory)
@@ -49,7 +46,7 @@ public sealed class ScheduleQueryService : IScheduleQueryService
 
         var entries = await QueryEntries(db, period.Id)
             .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id))
-            .Where(e => dayIso == null || e.DayOfWeek == dayIso.Value)
+            .Where(e => dayIso == null || (int)e.DayOfWeek == dayIso.Value)
             .ToListAsync(cancellationToken);
 
         return ToLessonsResponse(entries, isOdd);
@@ -77,7 +74,7 @@ public sealed class ScheduleQueryService : IScheduleQueryService
 
         var entries = await QueryEntries(db, period.Id)
             .Where(e => e.Teachers.Any(t => t.Id == teacherMatch.Item!.Id))
-            .Where(e => dayIso == null || e.DayOfWeek == dayIso.Value)
+            .Where(e => dayIso == null || (int)e.DayOfWeek == dayIso.Value)
             .ToListAsync(cancellationToken);
 
         return ToLessonsResponse(entries, isOdd);
@@ -125,11 +122,11 @@ public sealed class ScheduleQueryService : IScheduleQueryService
         var isOdd = ScheduleParsing.IsOddWeek(date, period.StartDate);
 
         var entries = await QueryEntries(db, period.Id)
-            .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id) && e.DayOfWeek == dayIso)
+            .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id) && (int)e.DayOfWeek == dayIso)
             .ToListAsync(cancellationToken);
 
         var current = entries
-            .Where(e => ScheduleParsing.MatchesParity(e.Parity, isOdd))
+            .Where(e => ScheduleParsing.MatchesParity(e.Parity?.ToString(), isOdd))
             .Where(e => e.TimeSlot.StartTime <= time && e.TimeSlot.EndTime >= time)
             .OrderBy(e => e.TimeSlot.SlotNumber)
             .Select(MapLesson)
@@ -169,11 +166,11 @@ public sealed class ScheduleQueryService : IScheduleQueryService
             var isOdd = ScheduleParsing.IsOddWeek(date, period.StartDate);
 
             var entries = await QueryEntries(db, period.Id)
-                .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id) && e.DayOfWeek == dayIso)
+                .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id) && (int)e.DayOfWeek == dayIso)
                 .ToListAsync(cancellationToken);
 
             var candidates = entries
-                .Where(e => ScheduleParsing.MatchesParity(e.Parity, isOdd))
+                .Where(e => ScheduleParsing.MatchesParity(e.Parity?.ToString(), isOdd))
                 .Where(e => offset > 0 || e.TimeSlot.StartTime > startTime)
                 .OrderBy(e => e.TimeSlot.SlotNumber)
                 .ToList();
@@ -263,7 +260,7 @@ public sealed class ScheduleQueryService : IScheduleQueryService
 
         var entries = await QueryEntries(db, period.Id)
             .Where(e => e.Teachers.Any(t => t.Id == teacherMatch.Item!.Id))
-            .Where(e => courseId == null || e.CourseId == courseId.Value)
+            .Where(e => courseId == null || e.Course.Id == courseId.Value)
             .ToListAsync(cancellationToken);
 
         var groups = entries
@@ -300,12 +297,12 @@ public sealed class ScheduleQueryService : IScheduleQueryService
         var lessonStartTime = ScheduleParsing.ParseTime(lessonStart);
 
         var entries = await QueryEntries(db, period.Id)
-            .Where(e => e.RoomId == roomMatch.Item!.Id)
-            .Where(e => dayIso == null || e.DayOfWeek == dayIso.Value)
+            .Where(e => e.Room!.Id == roomMatch.Item!.Id)
+            .Where(e => dayIso == null || (int)e.DayOfWeek == dayIso.Value)
             .ToListAsync(cancellationToken);
 
         var filtered = entries
-            .Where(e => ScheduleParsing.MatchesParity(e.Parity, isOdd))
+            .Where(e => ScheduleParsing.MatchesParity(e.Parity?.ToString(), isOdd))
             .Where(e => lessonStartTime == null || e.TimeSlot.StartTime == lessonStartTime.Value)
             .OrderBy(e => e.DayOfWeek)
             .ThenBy(e => e.TimeSlot.SlotNumber)
@@ -344,13 +341,13 @@ public sealed class ScheduleQueryService : IScheduleQueryService
             allRooms = allRooms.Where(r => string.Equals(ScheduleParsing.ExtractBlock(r.Name), block, StringComparison.OrdinalIgnoreCase)).ToList();
 
         var busyRoomIds = await QueryEntries(db, period.Id)
-            .Where(e => e.DayOfWeek == dayIso && e.RoomId != null)
+            .Where(e => (int)e.DayOfWeek == dayIso && e.Room != null)
             .ToListAsync(cancellationToken);
 
         var busyIds = busyRoomIds
-            .Where(e => ScheduleParsing.MatchesParity(e.Parity, isOdd))
+            .Where(e => ScheduleParsing.MatchesParity(e.Parity?.ToString(), isOdd))
             .Where(e => e.TimeSlot.StartTime < end.Value && e.TimeSlot.EndTime > start.Value) // пересечение интервалов
-            .Select(e => e.RoomId!.Value)
+            .Select(e => e.Room!.Id)
             .ToHashSet();
 
         var free = allRooms
@@ -388,13 +385,13 @@ public sealed class ScheduleQueryService : IScheduleQueryService
             allRooms = allRooms.Where(r => string.Equals(ScheduleParsing.ExtractBlock(r.Name), block, StringComparison.OrdinalIgnoreCase)).ToList();
 
         var dayEntries = await QueryEntries(db, period.Id)
-            .Where(e => e.DayOfWeek == dayIso && e.RoomId != null)
+            .Where(e => (int)e.DayOfWeek == dayIso && e.Room != null)
             .ToListAsync(cancellationToken);
 
         var busyIds = dayEntries
-            .Where(e => ScheduleParsing.MatchesParity(e.Parity, isOdd))
+            .Where(e => ScheduleParsing.MatchesParity(e.Parity?.ToString(), isOdd))
             .Where(e => e.TimeSlot.StartTime <= now.Value && e.TimeSlot.EndTime >= now.Value)
-            .Select(e => e.RoomId!.Value)
+            .Select(e => e.Room!.Id)
             .ToHashSet();
 
         var free = allRooms
@@ -413,7 +410,7 @@ public sealed class ScheduleQueryService : IScheduleQueryService
     private static IQueryable<ScheduleEntry> QueryEntries(ApplicationDbContext db, int periodId) =>
         db.ScheduleEntries
             .AsNoTracking()
-            .Where(e => e.AcademicPeriodId == periodId)
+            .Where(e => e.AcademicPeriod.Id == periodId)
             .Include(e => e.Course)
             .Include(e => e.Room)
             .Include(e => e.TimeSlot)
@@ -451,7 +448,7 @@ public sealed class ScheduleQueryService : IScheduleQueryService
     private static Response ToLessonsResponse(List<ScheduleEntry> entries, bool? isOdd)
     {
         var lessons = entries
-            .Where(e => ScheduleParsing.MatchesParity(e.Parity, isOdd))
+            .Where(e => ScheduleParsing.MatchesParity(e.Parity?.ToString(), isOdd))
             .OrderBy(e => e.DayOfWeek)
             .ThenBy(e => e.TimeSlot.SlotNumber)
             .Select(MapLesson)
@@ -464,13 +461,13 @@ public sealed class ScheduleQueryService : IScheduleQueryService
 
     private static LessonDto MapLesson(ScheduleEntry e) => new(
         e.Id,
-        e.DayOfWeek is >= 1 and <= 7 ? IsoDayNames[e.DayOfWeek - 1] : e.DayOfWeek.ToString(),
-        e.Parity,
+        e.DayOfWeek.ToString(),
+        e.Parity?.ToString(),
         e.TimeSlot.SlotNumber,
         e.TimeSlot.StartTime.ToString("HH:mm"),
         e.TimeSlot.EndTime.ToString("HH:mm"),
         e.Course.Name,
-        e.LessonType,
+        e.LessonType.GetValueOrDefault().ToString(),
         e.Subgroup,
         e.Specialization,
         e.Alternative,
@@ -500,14 +497,14 @@ public sealed class ScheduleQueryService : IScheduleQueryService
             : TextNormalizer.Normalize(subjectType);
 
         var entries = await QueryEntries(db, period.Id)
-            .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id) && e.CourseId == courseMatch.Item!.Id)
-            .Where(e => dayIso == null || e.DayOfWeek == dayIso.Value)
+            .Where(e => e.Groups.Any(g => g.Id == groupMatch.Item!.Id) && e.Course.Id == courseMatch.Item!.Id)
+            .Where(e => dayIso == null || (int)e.DayOfWeek == dayIso.Value)
             .ToListAsync(ct);
 
         if (normalizedType is not null)
         {
             entries = entries
-                .Where(e => TextNormalizer.Normalize(e.LessonType) == normalizedType)
+                .Where(e => TextNormalizer.Normalize(e.LessonType.ToString()) == normalizedType)
                 .ToList();
         }
 

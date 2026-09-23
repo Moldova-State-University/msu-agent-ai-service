@@ -13,7 +13,7 @@ public static class PersistenceExtensions
             ?? throw new InvalidOperationException(
                 "Connection string 'USMAgentDb' was not found.");
 
-        services.AddDbContext<ApplicationDbContext>(options =>
+        services.AddDbContextFactory<ApplicationDbContext>(options =>
         {
             options.UseNpgsql(connectionString);
         });

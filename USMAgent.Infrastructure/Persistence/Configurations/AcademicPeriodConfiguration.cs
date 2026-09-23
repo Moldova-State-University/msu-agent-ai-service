@@ -9,5 +9,8 @@ public class AcademicPeriodConfiguration : IEntityTypeConfiguration<AcademicPeri
     public void Configure(EntityTypeBuilder<AcademicPeriod> builder)
     {
         builder.HasKey(p => p.Id);
+        
+        builder.Property(p => p.Id)
+        .ValueGeneratedOnAdd();
     }
 }

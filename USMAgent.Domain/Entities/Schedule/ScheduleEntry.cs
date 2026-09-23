@@ -1,21 +1,15 @@
-﻿namespace USMAgent.Domain.Entities.Schedule;
+﻿using USMAgent.Domain.Enums;
+using DayOfWeek = USMAgent.Domain.Enums.DayOfWeek;
+
+namespace USMAgent.Domain.Entities.Schedule;
 public class ScheduleEntry
 {
     public int Id { get; set; }
+    public DayOfWeek DayOfWeek { get; set; }
 
-    public int AcademicPeriodId { get; set; }
+    public Parity? Parity { get; set; }
 
-    public int DayOfWeek { get; set; }
-
-    public string? Parity { get; set; }
-
-    public int TimeSlotId { get; set; }
-
-    public int CourseId { get; set; }
-
-    public int? RoomId { get; set; }
-
-    public string? LessonType { get; set; }
+    public LessonType? LessonType { get; set; }
 
     public string? Subgroup { get; set; }
 

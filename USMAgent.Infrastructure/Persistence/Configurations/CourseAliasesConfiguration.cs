@@ -9,6 +9,10 @@ public class CourseAliasConfiguration : IEntityTypeConfiguration<CourseAlias>
     public void Configure(EntityTypeBuilder<CourseAlias> builder)
     {
         builder.HasKey(a => a.Id);
+
+        builder.Property(p => p.Id)
+        .ValueGeneratedOnAdd();
+
         builder.Property(a => a.Alias).HasMaxLength(256).IsRequired();
 
         builder.HasOne(a => a.Course)

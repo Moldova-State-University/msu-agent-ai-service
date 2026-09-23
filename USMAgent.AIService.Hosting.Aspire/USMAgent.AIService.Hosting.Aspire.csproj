@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\QdrantLoad\QdrantLoad.csproj" />
     <ProjectReference Include="..\USMAgent.AIService.API\USMAgent.AIService.API.csproj" />
 	<ProjectReference Include="..\USMAgent.MigrationService\USMAgent.MigrationService.csproj" />
   </ItemGroup>

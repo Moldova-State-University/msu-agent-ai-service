@@ -21,14 +21,21 @@ else
     api = builder.AddProject<Projects.USMAgent_AIService_API>("usm-agent-ai-service");
 }
 
-var qdrant = builder.AddQdrant("qdrant")
+var apiKey = builder.AddParameter("apiKey", secret: true);
+
+var qdrant = builder.AddQdrant("qdrant", apiKey, 6334, 6333)
     .WithLifetime(ContainerLifetime.Persistent);
 
 var ollama = builder.AddOllama("ollama");
 var llama3 = ollama.AddModel("llama3");
 
+var qdrantLoader = builder.AddProject<Projects.QdrantLoad>("qdrantLoad")
+    .WithReference(qdrant)
+    .WaitFor(qdrant);
+
 api.WithReference(qdrant)
     .WithReference(llama3)
+    .WaitFor(qdrantLoader)
     .WaitFor(qdrant)
     .WaitFor(llama3);
 

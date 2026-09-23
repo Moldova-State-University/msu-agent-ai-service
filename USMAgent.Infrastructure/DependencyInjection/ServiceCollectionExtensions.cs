@@ -1,4 +1,3 @@
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
@@ -6,6 +5,7 @@ using Qdrant.Client;
 using USMAgent.Application;
 using USMAgent.Application.Abstractions;
 using USMAgent.Infrastructure.AI.Ollama;
+using USMAgent.Infrastructure.DependencyInjection;
 using USMAgent.Infrastructure.FileSystem;
 using USMAgent.Infrastructure.FileSystem.Json;
 using USMAgent.Infrastructure.Persistence;
@@ -21,7 +21,9 @@ public static class ServiceCollectionExtensions
         services.Configure<OllamaOptions>(configuration.GetSection(OllamaOptions.SectionName));
         services.Configure<QdrantOptions>(configuration.GetSection(QdrantOptions.SectionName));
         services.Configure<IndexingOptions>(configuration.GetSection(IndexingOptions.SectionName));
-
+        
+        services.AddPersistence(configuration);
+        
         services.AddSingleton(sp =>
         {
             var options = sp.GetRequiredService<IOptions<QdrantOptions>>().Value;

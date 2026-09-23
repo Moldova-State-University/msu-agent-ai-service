@@ -7,13 +7,11 @@ namespace USMAgent.Infrastructure.DependencyInjection;
 
 public static class PersistenceExtensions
 {
-    public static IServiceCollection AddPersistence(
-        this IServiceCollection services,
-        IConfiguration configuration)
+    public static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
     {
-        var connectionString = configuration.GetConnectionString("Database")
+        var connectionString = configuration.GetConnectionString("USMAgentDb")
             ?? throw new InvalidOperationException(
-                "Connection string 'Database' was not found.");
+                "Connection string 'USMAgentDb' was not found.");
 
         services.AddDbContext<ApplicationDbContext>(options =>
         {

@@ -12,10 +12,12 @@
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting.Qdrant" />
     <PackageReference Include="CommunityToolkit.Aspire.Hosting.Ollama" />
+	<PackageReference Include="Aspire.Hosting.PostgreSQL" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\USMAgent.AIService.API\USMAgent.AIService.API.csproj" />
+	<ProjectReference Include="..\USMAgent.MigrationService\USMAgent.MigrationService.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,7 +3,6 @@ using Qdrant.Client;
 using Qdrant.Client.Grpc;
 using USMAgent.Application.Abstractions;
 using USMAgent.Application.Models;
-using USMAgent.Infrastructure.VectorStore.Qdrant;
 
 namespace USMAgent.Infrastructure.VectorStore.Qdrant;
 

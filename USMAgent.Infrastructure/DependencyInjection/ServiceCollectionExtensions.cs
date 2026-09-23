@@ -25,9 +25,13 @@ public static class ServiceCollectionExtensions
         
         services.AddSingleton(sp =>
         {
-            var options = sp.GetRequiredService<IOptions<QdrantOptions>>().Value;
+            return new QdrantClient(new Uri("http://localhost:6334/"), apiKey: "super-secret-api-key");
 
-            return new QdrantClient(options.Host, options.Port);
+            /*            var options = sp.GetRequiredService<IOptions<QdrantOptions>>().Value;
+                        var parametersSection = configuration.GetSection("Parameters");
+                        var apiKey = parametersSection.GetValue<string>("apiKey");
+
+                        return new QdrantClient(options.Host, options.Port, true, apiKey);*/
         });
 
         services.AddSingleton<IPromptStore, PromptStore>();

@@ -55,7 +55,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("ScheduleEntryTeacher");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.AcademicPeriod", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.AcademicPeriod", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -74,7 +74,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("AcademicPeriods");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.Course", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Course", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -92,7 +92,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("Courses");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.CourseAlias", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.CourseAlias", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -117,7 +117,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("CourseAliases");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.Group", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Group", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -143,7 +143,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("Groups");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.Room", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Room", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -161,7 +161,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("Rooms");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.ScheduleEntry", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.ScheduleEntry", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -218,7 +218,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("ScheduleEntries");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.Teacher", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Teacher", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -248,7 +248,7 @@ namespace USMAgent.Infrastructure.Migrations
                     b.ToTable("Teachers");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.TimeSlot", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.TimeSlot", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -275,13 +275,13 @@ namespace USMAgent.Infrastructure.Migrations
 
             modelBuilder.Entity("GroupScheduleEntry", b =>
                 {
-                    b.HasOne("USMAgent.Domain.Entities.Group", null)
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.Group", null)
                         .WithMany()
                         .HasForeignKey("GroupsId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("USMAgent.Domain.Entities.ScheduleEntry", null)
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.ScheduleEntry", null)
                         .WithMany()
                         .HasForeignKey("ScheduleEntriesId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -290,22 +290,22 @@ namespace USMAgent.Infrastructure.Migrations
 
             modelBuilder.Entity("ScheduleEntryTeacher", b =>
                 {
-                    b.HasOne("USMAgent.Domain.Entities.ScheduleEntry", null)
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.ScheduleEntry", null)
                         .WithMany()
                         .HasForeignKey("ScheduleEntriesId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("USMAgent.Domain.Entities.Teacher", null)
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.Teacher", null)
                         .WithMany()
                         .HasForeignKey("TeachersId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.CourseAlias", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.CourseAlias", b =>
                 {
-                    b.HasOne("USMAgent.Domain.Entities.Course", "Course")
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.Course", "Course")
                         .WithMany("Aliases")
                         .HasForeignKey("CourseId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -314,26 +314,26 @@ namespace USMAgent.Infrastructure.Migrations
                     b.Navigation("Course");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.ScheduleEntry", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.ScheduleEntry", b =>
                 {
-                    b.HasOne("USMAgent.Domain.Entities.AcademicPeriod", "AcademicPeriod")
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.AcademicPeriod", "AcademicPeriod")
                         .WithMany("ScheduleEntries")
                         .HasForeignKey("AcademicPeriodId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.HasOne("USMAgent.Domain.Entities.Course", "Course")
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.Course", "Course")
                         .WithMany("ScheduleEntries")
                         .HasForeignKey("CourseId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.HasOne("USMAgent.Domain.Entities.Room", "Room")
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.Room", "Room")
                         .WithMany("ScheduleEntries")
                         .HasForeignKey("RoomId")
                         .OnDelete(DeleteBehavior.SetNull);
 
-                    b.HasOne("USMAgent.Domain.Entities.TimeSlot", "TimeSlot")
+                    b.HasOne("USMAgent.Domain.Entities.Schedule.TimeSlot", "TimeSlot")
                         .WithMany("ScheduleEntries")
                         .HasForeignKey("TimeSlotId")
                         .OnDelete(DeleteBehavior.Restrict)
@@ -348,24 +348,24 @@ namespace USMAgent.Infrastructure.Migrations
                     b.Navigation("TimeSlot");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.AcademicPeriod", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.AcademicPeriod", b =>
                 {
                     b.Navigation("ScheduleEntries");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.Course", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Course", b =>
                 {
                     b.Navigation("Aliases");
 
                     b.Navigation("ScheduleEntries");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.Room", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.Room", b =>
                 {
                     b.Navigation("ScheduleEntries");
                 });
 
-            modelBuilder.Entity("USMAgent.Domain.Entities.TimeSlot", b =>
+            modelBuilder.Entity("USMAgent.Domain.Entities.Schedule.TimeSlot", b =>
                 {
                     b.Navigation("ScheduleEntries");
                 });

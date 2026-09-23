@@ -17,6 +17,7 @@ builder.Services.AddExceptionHandler<ApiExceptionHandler>();
 var app = builder.Build();
 
 RegulationSearchTool.Initialize(app.Services);
+ScheduleTools.Initialize(app.Services);
 
 app.UseExceptionHandler();
 

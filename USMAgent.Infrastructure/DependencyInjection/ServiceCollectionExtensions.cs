@@ -5,8 +5,10 @@ using Qdrant.Client;
 using USMAgent.Application;
 using USMAgent.Application.Abstractions;
 using USMAgent.Infrastructure.AI.Ollama;
+using USMAgent.Infrastructure.DependencyInjection;
 using USMAgent.Infrastructure.FileSystem;
 using USMAgent.Infrastructure.FileSystem.Json;
+using USMAgent.Infrastructure.Schedule;
 using USMAgent.Infrastructure.VectorStore.Qdrant;
 
 namespace USMAgent.Infrastructure;
@@ -18,12 +20,18 @@ public static class ServiceCollectionExtensions
         services.Configure<OllamaOptions>(configuration.GetSection(OllamaOptions.SectionName));
         services.Configure<QdrantOptions>(configuration.GetSection(QdrantOptions.SectionName));
         services.Configure<IndexingOptions>(configuration.GetSection(IndexingOptions.SectionName));
-
+        
+        services.AddPersistence(configuration);
+        
         services.AddSingleton(sp =>
         {
-            var options = sp.GetRequiredService<IOptions<QdrantOptions>>().Value;
+            return new QdrantClient(new Uri("http://localhost:6334/"), apiKey: "super-secret-api-key");
 
-            return new QdrantClient(options.Host, options.Port);
+            /*            var options = sp.GetRequiredService<IOptions<QdrantOptions>>().Value;
+                        var parametersSection = configuration.GetSection("Parameters");
+                        var apiKey = parametersSection.GetValue<string>("apiKey");
+
+                        return new QdrantClient(options.Host, options.Port, true, apiKey);*/
         });
 
         services.AddSingleton<IPromptStore, PromptStore>();
@@ -45,6 +53,8 @@ public static class ServiceCollectionExtensions
 
         services.AddSingleton<ISearchRegulations, SearchRegulations>();
         services.AddSingleton<RegulationIndexer>();
+
+        services.AddSingleton<IScheduleQueryService, ScheduleQueryService>();
 
         return services;
     }

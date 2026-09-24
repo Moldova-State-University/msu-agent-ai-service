@@ -39,6 +39,7 @@ public static class ServiceCollectionExtensions
 
         services.AddSingleton<ITextEmbeddingGenerator, OllamaEmbeddingGenerator>();
         services.AddSingleton<IChatAgent, OllamaChatAgent>();
+        services.AddSingleton<IQueryPreprocessor, OllamaQueryPreprocessor>();
 
         services.AddSingleton<IRegulationSearchStore, QdrantRegulationSearchStore>();
         services.AddSingleton<IRegulationIndexStore, QdrantRegulationIndexStore>();

@@ -21,5 +21,9 @@ public sealed class OllamaOptions
     public bool AllowRecursiveToolCalls { get; init; } = true;
     public float Temperature { get; init; } = 0.2f;
     public float TopP { get; init; } = 0.8f;
-    public int NumCtx { get; init; } = 8192;
+    public int NumCtx { get; init; } = 32768;
+
+    /// <summary>Model used to translate search queries. Falls back to <see cref="ChatModel"/> when empty.</summary>
+    public string? PreprocessorModel { get; init; }
+    public string PreprocessorPromptPath { get; init; } = "Storage/Prompts/QueryPreprocessing/QueryTranslationPrompt.md";
 }

@@ -24,7 +24,7 @@ public static class RegulationSearchTool
     /// <param name="query">
     /// User question or search query. Must not be null, empty, or whitespace.
     /// Can be a full natural language question in Russian, Romanian, or English.
-    /// </param>
+    ///</param>
     [OllamaTool]
     public static async Task<string> SearchRegulations(string query)
     {
@@ -35,7 +35,6 @@ public static class RegulationSearchTool
         var search = services.GetRequiredService<ISearchRegulations>();
 
         var result = await search.ExecuteAsync(query);
-
         return ToolJson.Serialize(result);
     }
 }

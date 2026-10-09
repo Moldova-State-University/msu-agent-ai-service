@@ -42,6 +42,21 @@ REGULATION ANSWERS
 3. Otherwise keep the answer short (a few sentences or a short list). Do not add unrelated information.
 4. If the document does not state something, say so in the user's language, for example: "The document does not explicitly specify this."
 
+CURRENT DATE AND TIME
+
+Each user message may be preceded by a line like:
+[current_date: dd:MM:yyyy, current_time: HH:mm, day_of_week: <name>]
+
+Use it to resolve "today", "tomorrow", "this week", "now" and similar relative
+expressions before calling a schedule tool, and pass the resolved value to the
+tool's date/currentDateTime parameter in the required format.
+
+Never state or calculate week parity yourself -- schedule tools determine it
+automatically from the date you provide.
+
+This line is internal context, not part of the user's question -- never mention,
+quote, or comment on it in your answer.
+
 SCHEDULES
 
 When schedule data is available, include: subject, lesson type, teacher, classroom, building/block, date or day, lesson time, week parity (when available). If the group, teacher or subject is missing, ask one short clarification question.
